@@ -1,0 +1,1046 @@
+2023-03-21 00:43:33 [main] INFO  c.z.j.f.p.ServerContext - list: [{ip=192.168.31.1/24, rule=ACCEPT}, {ip=127.0.0.1/0, rule=REJECT}]
+2023-03-21 00:43:33 [main] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 12036@DESKTOP-2OE000C (d:\JProxyTools)
+2023-03-21 00:43:33 [main] INFO  c.z.j.f.p.J.h.I.IpFilterRuleHandler - Int: 2
+2023-03-21 00:43:33 [main] INFO  c.z.j.f.p.J.h.I.IpFilterRuleHandler - ip： 192.168.31.1/24 rule: ACCEPT
+2023-03-21 00:43:33 [main] INFO  c.z.j.f.p.J.h.I.IpFilterRuleHandler - ip： 127.0.0.1/0 rule: REJECT
+2023-03-21 00:43:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5001
+2023-03-21 00:43:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5002
+2023-03-21 00:43:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5003
+2023-03-21 00:43:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5004
+2023-03-21 00:43:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5005
+2023-03-21 00:43:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5006
+2023-03-21 00:43:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5007
+2023-03-21 00:43:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5008
+2023-03-21 00:43:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5009
+2023-03-21 00:43:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5010
+2023-03-21 00:43:33 [main] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@7d61eb55(success), AbstractBootstrap$PendingRegistrationPromise@222a59e6(success), AbstractBootstrap$PendingRegistrationPromise@6c7a164b(success), AbstractBootstrap$PendingRegistrationPromise@4c2bb6e0(success), AbstractBootstrap$PendingRegistrationPromise@3e62d773(success), AbstractBootstrap$PendingRegistrationPromise@4ef74c30(success), AbstractBootstrap$PendingRegistrationPromise@7283d3eb(success), AbstractBootstrap$PendingRegistrationPromise@638ef7ed(success), AbstractBootstrap$PendingRegistrationPromise@4bff7da0(success), AbstractBootstrap$PendingRegistrationPromise@3f1d2e23(success)]
+2023-03-21 01:48:29 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x7d21aa65, L:/192.168.31.193:5006 - R:/192.168.31.215:42755] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42755
+2023-03-21 01:48:29 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:48:29 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:48:29 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：IPv4(1) ,地址： 1.14.47.160 ，端口： 8088
+2023-03-21 01:48:29 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：IPv4(1) ,地址： 1.14.47.160 ，端口： 8088
+2023-03-21 01:51:36 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x1ac07ef9, L:/192.168.31.193:5006 - R:/192.168.31.215:42757] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42757
+2023-03-21 01:51:36 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:51:36 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:51:36 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：IPv4(1) ,地址： 1.14.47.160 ，端口： 8088
+2023-03-21 01:51:36 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：IPv4(1) ,地址： 1.14.47.160 ，端口： 8088
+2023-03-21 01:52:52 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x5bf4777a, L:/192.168.31.193:5006 - R:/192.168.31.215:42760] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42760
+2023-03-21 01:52:52 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:52:52 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:52:52 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.googleapis.com ，端口： 443
+2023-03-21 01:52:52 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.googleapis.com ，端口： 443
+2023-03-21 01:52:52 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x83457275, L:/192.168.31.193:5006 - R:/192.168.31.215:42762] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42762
+2023-03-21 01:52:52 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:52:52 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:52:52 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： gmscompliance-pa.googleapis.com ，端口： 443
+2023-03-21 01:52:52 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x1d3c2b7b, L:/192.168.31.193:5006 - R:/192.168.31.215:42763] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42763
+2023-03-21 01:52:52 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:52:52 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:52:52 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：IPv4(1) ,地址： 240.0.0.1 ，端口： 853
+2023-03-21 01:52:52 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： gmscompliance-pa.googleapis.com ，端口： 443
+2023-03-21 01:52:53 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x3d7ec991, L:/192.168.31.193:5006 - R:/192.168.31.215:42765] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42765
+2023-03-21 01:52:53 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:52:53 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:52:53 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play-fe.googleapis.com ，端口： 443
+2023-03-21 01:52:53 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play-fe.googleapis.com ，端口： 443
+2023-03-21 01:52:54 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xd7ad3df6, L:/192.168.31.193:5006 - R:/192.168.31.215:42767] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42767
+2023-03-21 01:52:54 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:52:54 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:52:54 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 01:52:54 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 01:52:55 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x01c76ffd, L:/192.168.31.193:5006 - R:/192.168.31.215:42769] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42769
+2023-03-21 01:52:55 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:52:55 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:52:55 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 01:52:55 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 01:52:55 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xd9953cde, L:/192.168.31.193:5006 - R:/192.168.31.215:42771] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42771
+2023-03-21 01:52:55 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:52:55 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:52:55 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 01:52:56 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 01:52:56 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x6748d467, L:/192.168.31.193:5006 - R:/192.168.31.215:42773] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42773
+2023-03-21 01:52:56 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:52:57 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:52:57 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 01:52:57 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 01:52:57 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x68e57474, L:/192.168.31.193:5006 - R:/192.168.31.215:42775] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42775
+2023-03-21 01:52:57 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:52:57 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:52:57 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： xtrapath3.izatcloud.net ，端口： 80
+2023-03-21 01:52:57 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xf37aec05, L:/192.168.31.193:5006 - R:/192.168.31.215:42777] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42777
+2023-03-21 01:52:57 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:52:57 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:52:57 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 01:52:57 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 01:52:57 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： xtrapath3.izatcloud.net ，端口： 80
+2023-03-21 01:52:58 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x9a9b265f, L:/192.168.31.193:5006 - R:/192.168.31.215:42779] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42779
+2023-03-21 01:52:58 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:52:58 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:52:58 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 01:52:58 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 01:52:58 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x317222dc, L:/192.168.31.193:5006 - R:/192.168.31.215:42781] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42781
+2023-03-21 01:52:58 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:52:58 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:52:58 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： playatoms-pa.googleapis.com ，端口： 443
+2023-03-21 01:52:58 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x8aa5fb8b, L:/192.168.31.193:5006 - R:/192.168.31.215:42783] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42783
+2023-03-21 01:52:58 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:52:58 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:52:58 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： playatoms-pa.googleapis.com ，端口： 443
+2023-03-21 01:52:58 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： playatoms-pa.googleapis.com ，端口： 443
+2023-03-21 01:52:58 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： playatoms-pa.googleapis.com ，端口： 443
+2023-03-21 01:52:59 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x2d7f7524, L:/192.168.31.193:5006 - R:/192.168.31.215:42785] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42785
+2023-03-21 01:52:59 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:52:59 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:52:59 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 01:52:59 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 01:52:59 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x21cdfbe8, L:/192.168.31.193:5006 - R:/192.168.31.215:42787] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42787
+2023-03-21 01:52:59 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:52:59 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:52:59 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 01:52:59 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 01:53:00 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x4b57e573, L:/192.168.31.193:5006 - R:/192.168.31.215:42789] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42789
+2023-03-21 01:53:00 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:53:00 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:53:00 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android-safebrowsing.google.com ，端口： 443
+2023-03-21 01:53:00 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android-safebrowsing.google.com ，端口： 443
+2023-03-21 01:53:18 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x0ec996d6, L:/192.168.31.193:5006 - R:/192.168.31.215:42791] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42791
+2023-03-21 01:53:18 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:53:18 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:53:18 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： myphonenumbers-pa.googleapis.com ，端口： 443
+2023-03-21 01:53:18 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： myphonenumbers-pa.googleapis.com ，端口： 443
+2023-03-21 01:54:03 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xf1751580, L:/192.168.31.193:5006 - R:/192.168.31.215:42793] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42793
+2023-03-21 01:54:03 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:54:03 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:54:03 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr4---sn-ogul7nel.gvt1.com ，端口： 443
+2023-03-21 01:54:04 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr4---sn-ogul7nel.gvt1.com ，端口： 443
+2023-03-21 01:54:05 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xe12a2a6e, L:/192.168.31.193:5006 - R:/192.168.31.215:42795] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42795
+2023-03-21 01:54:05 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:54:05 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:54:05 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr5---sn-ab02a0nfpgxapox-jwwy.gvt1.com ，端口： 443
+2023-03-21 01:54:05 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr5---sn-ab02a0nfpgxapox-jwwy.gvt1.com ，端口： 443
+2023-03-21 01:54:43 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x83374019, L:/192.168.31.193:5006 - R:/192.168.31.215:42797] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42797
+2023-03-21 01:54:43 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:54:43 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:54:43 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： digitalassetlinks.googleapis.com ，端口： 443
+2023-03-21 01:54:44 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： digitalassetlinks.googleapis.com ，端口： 443
+2023-03-21 01:54:47 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x27739dc9, L:/192.168.31.193:5006 - R:/192.168.31.215:42799] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42799
+2023-03-21 01:54:47 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:54:47 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:54:47 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 01:54:47 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xb386f3eb, L:/192.168.31.193:5006 - R:/192.168.31.215:42801] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42801
+2023-03-21 01:54:47 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:54:47 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:54:47 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 01:54:47 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 01:54:47 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 01:54:47 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xcfda19c4, L:/192.168.31.193:5006 - R:/192.168.31.215:42803] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42803
+2023-03-21 01:54:47 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:54:47 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:54:47 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： gmscompliance-pa.googleapis.com ，端口： 443
+2023-03-21 01:54:47 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： gmscompliance-pa.googleapis.com ，端口： 443
+2023-03-21 01:54:50 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xeaf1b65b, L:/192.168.31.193:5006 - R:/192.168.31.215:42805] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42805
+2023-03-21 01:54:50 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:54:50 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:54:50 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play-fe.googleapis.com ，端口： 443
+2023-03-21 01:54:50 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play-fe.googleapis.com ，端口： 443
+2023-03-21 01:54:53 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x54a12caa, L:/192.168.31.193:5006 - R:/192.168.31.215:42807] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42807
+2023-03-21 01:54:53 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:54:53 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:54:53 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 01:54:53 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 01:55:04 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x9c75c83d, L:/192.168.31.193:5006 - R:/192.168.31.215:42809] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42809
+2023-03-21 01:55:04 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:55:04 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:55:04 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 01:55:04 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 01:55:05 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x5a8e9114, L:/192.168.31.193:5006 - R:/192.168.31.215:42811] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42811
+2023-03-21 01:55:05 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:55:05 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:55:05 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 01:55:05 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 01:55:05 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x7c8b477c, L:/192.168.31.193:5006 - R:/192.168.31.215:42813] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42813
+2023-03-21 01:55:05 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:55:05 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:55:05 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 01:55:05 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 01:55:07 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x151e67b4, L:/192.168.31.193:5006 - R:/192.168.31.215:42815] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42815
+2023-03-21 01:55:07 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:55:07 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:55:07 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 01:55:07 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 01:55:07 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xda3709fd, L:/192.168.31.193:5006 - R:/192.168.31.215:42817] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42817
+2023-03-21 01:55:07 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:55:07 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:55:07 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： playatoms-pa.googleapis.com ，端口： 443
+2023-03-21 01:55:07 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： playatoms-pa.googleapis.com ，端口： 443
+2023-03-21 01:55:14 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x56d1107d, L:/192.168.31.193:5006 - R:/192.168.31.215:42856] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42856
+2023-03-21 01:55:14 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:55:14 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:55:14 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.gstatic.com ，端口： 443
+2023-03-21 01:55:14 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.gstatic.com ，端口： 443
+2023-03-21 01:55:19 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x1a5b8889, L:/192.168.31.193:5006 - R:/192.168.31.215:42858] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42858
+2023-03-21 01:55:19 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:55:19 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:55:19 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： firebaseinstallations.googleapis.com ，端口： 443
+2023-03-21 01:55:19 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： firebaseinstallations.googleapis.com ，端口： 443
+2023-03-21 01:55:20 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x657e944c, L:/192.168.31.193:5006 - R:/192.168.31.215:42860] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42860
+2023-03-21 01:55:20 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:55:20 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:55:20 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.apis.google.com ，端口： 443
+2023-03-21 01:55:20 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.apis.google.com ，端口： 443
+2023-03-21 01:55:21 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x0cb4ab84, L:/192.168.31.193:5006 - R:/192.168.31.215:42862] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42862
+2023-03-21 01:55:21 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:55:21 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:55:21 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： googleads.g.doubleclick.net ，端口： 443
+2023-03-21 01:55:21 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xddac0c49, L:/192.168.31.193:5006 - R:/192.168.31.215:42864] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42864
+2023-03-21 01:55:21 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:55:21 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:55:21 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 01:55:21 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x45429609, L:/192.168.31.193:5006 - R:/192.168.31.215:42866] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42866
+2023-03-21 01:55:21 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:55:21 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:55:21 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android-safebrowsing.google.com ，端口： 443
+2023-03-21 01:55:21 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： googleads.g.doubleclick.net ，端口： 443
+2023-03-21 01:55:21 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 01:55:21 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android-safebrowsing.google.com ，端口： 443
+2023-03-21 01:55:33 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xb4dd2295, L:/192.168.31.193:5006 - R:/192.168.31.215:42868] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42868
+2023-03-21 01:55:33 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:55:33 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:55:33 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 01:55:33 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xcd88d762, L:/192.168.31.193:5006 - R:/192.168.31.215:42870] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42870
+2023-03-21 01:55:33 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:55:33 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:55:33 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： voledevice-pa.googleapis.com ，端口： 443
+2023-03-21 01:55:33 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： voledevice-pa.googleapis.com ，端口： 443
+2023-03-21 01:59:43 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xdee4b54d, L:/192.168.31.193:5006 - R:/192.168.31.215:42872] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42872
+2023-03-21 01:59:43 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:59:43 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:59:43 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 01:59:45 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x94eabba8, L:/192.168.31.193:5006 - R:/192.168.31.215:42874] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42874
+2023-03-21 01:59:45 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 01:59:45 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 01:59:45 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 01:59:45 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 02:00:06 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x82f2015a, L:/192.168.31.193:5006 - R:/192.168.31.215:42876] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42876
+2023-03-21 02:00:06 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:00:06 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:00:06 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 02:00:06 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 02:03:54 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xacf64415, L:/192.168.31.193:5006 - R:/192.168.31.215:42878] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42878
+2023-03-21 02:03:54 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:03:54 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:03:54 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 02:05:00 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xc16fb391, L:/192.168.31.193:5006 - R:/192.168.31.215:42880] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42880
+2023-03-21 02:05:00 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:05:00 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:05:00 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play-fe.googleapis.com ，端口： 443
+2023-03-21 02:05:00 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play-fe.googleapis.com ，端口： 443
+2023-03-21 02:08:04 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x83036b09, L:/192.168.31.193:5006 - R:/192.168.31.215:42882] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42882
+2023-03-21 02:08:04 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:08:04 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:08:04 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 02:12:14 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xa90098d9, L:/192.168.31.193:5006 - R:/192.168.31.215:42884] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42884
+2023-03-21 02:12:14 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:12:14 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:12:14 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 02:15:36 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xddebc6ac, L:/192.168.31.193:5006 - R:/192.168.31.215:42886] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42886
+2023-03-21 02:15:36 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:15:36 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:15:36 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 02:15:37 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 02:15:40 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x64b1c9a6, L:/192.168.31.193:5006 - R:/192.168.31.215:42888] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42888
+2023-03-21 02:15:40 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:15:40 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:15:40 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 02:15:41 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 02:16:25 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xf03eb2c3, L:/192.168.31.193:5006 - R:/192.168.31.215:42890] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42890
+2023-03-21 02:16:25 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:16:25 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:16:25 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 02:20:35 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x92c63997, L:/192.168.31.193:5006 - R:/192.168.31.215:42892] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42892
+2023-03-21 02:20:35 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:20:35 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:20:35 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 02:20:37 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x5139ea26, L:/192.168.31.193:5006 - R:/192.168.31.215:42894] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42894
+2023-03-21 02:20:37 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:20:37 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:20:37 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 02:20:37 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 02:24:46 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xb3ee3018, L:/192.168.31.193:5006 - R:/192.168.31.215:42896] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42896
+2023-03-21 02:24:46 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:24:46 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:24:46 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 02:27:34 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xece3e0f6, L:/192.168.31.193:5006 - R:/192.168.31.215:42898] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42898
+2023-03-21 02:27:34 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:27:34 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:27:34 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.apis.google.com ，端口： 443
+2023-03-21 02:27:34 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.apis.google.com ，端口： 443
+2023-03-21 02:27:37 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x9d0807b7, L:/192.168.31.193:5006 - R:/192.168.31.215:42900] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42900
+2023-03-21 02:27:37 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:27:37 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:27:37 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.googleapis.com ，端口： 443
+2023-03-21 02:27:37 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.googleapis.com ，端口： 443
+2023-03-21 02:27:38 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x3181ff81, L:/192.168.31.193:5006 - R:/192.168.31.215:42902] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42902
+2023-03-21 02:27:38 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:27:38 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:27:38 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： cryptauthenrollment.googleapis.com ，端口： 443
+2023-03-21 02:27:38 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： cryptauthenrollment.googleapis.com ，端口： 443
+2023-03-21 02:27:41 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xb712eacc, L:/192.168.31.193:5006 - R:/192.168.31.215:42904] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42904
+2023-03-21 02:27:41 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:27:41 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:27:41 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 02:27:41 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 02:28:57 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x1a6ea122, L:/192.168.31.193:5006 - R:/192.168.31.215:42906] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42906
+2023-03-21 02:28:57 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:28:57 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:28:57 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 02:33:07 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xbc10a7f3, L:/192.168.31.193:5006 - R:/192.168.31.215:42908] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42908
+2023-03-21 02:33:07 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:33:07 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:33:07 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 02:37:18 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xd5c64658, L:/192.168.31.193:5006 - R:/192.168.31.215:42910] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42910
+2023-03-21 02:37:18 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:37:18 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:37:18 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 02:38:49 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x109d0ad5, L:/192.168.31.193:5006 - R:/192.168.31.215:42912] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42912
+2023-03-21 02:38:49 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:38:49 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:38:49 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.googleapis.com ，端口： 443
+2023-03-21 02:38:49 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.googleapis.com ，端口： 443
+2023-03-21 02:38:50 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xa5d70410, L:/192.168.31.193:5006 - R:/192.168.31.215:42914] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42914
+2023-03-21 02:38:50 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:38:50 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:38:50 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 02:38:50 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 02:41:28 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xd7d77609, L:/192.168.31.193:5006 - R:/192.168.31.215:42916] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42916
+2023-03-21 02:41:28 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:41:28 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:41:28 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 02:45:38 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x54c50930, L:/192.168.31.193:5006 - R:/192.168.31.215:42918] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42918
+2023-03-21 02:45:38 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:45:38 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:45:38 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 02:49:49 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x1386d3ed, L:/192.168.31.193:5006 - R:/192.168.31.215:42920] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42920
+2023-03-21 02:49:49 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:49:49 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:49:49 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 02:53:59 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x0fbbed5f, L:/192.168.31.193:5006 - R:/192.168.31.215:42922] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42922
+2023-03-21 02:53:59 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:53:59 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:53:59 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 02:58:10 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xa787fb49, L:/192.168.31.193:5006 - R:/192.168.31.215:42924] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42924
+2023-03-21 02:58:10 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 02:58:10 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 02:58:10 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 03:02:20 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xa3768efb, L:/192.168.31.193:5006 - R:/192.168.31.215:42926] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42926
+2023-03-21 03:02:20 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:02:20 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:02:20 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 03:06:31 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x9d2d38ee, L:/192.168.31.193:5006 - R:/192.168.31.215:42928] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42928
+2023-03-21 03:06:31 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:06:31 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:06:31 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 03:08:36 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xaeebb0ea, L:/192.168.31.193:5006 - R:/192.168.31.215:42930] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42930
+2023-03-21 03:08:36 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:08:36 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:08:36 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.googleapis.com ，端口： 443
+2023-03-21 03:08:36 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.googleapis.com ，端口： 443
+2023-03-21 03:08:38 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xf34ec004, L:/192.168.31.193:5006 - R:/192.168.31.215:42932] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42932
+2023-03-21 03:08:38 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:08:38 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:08:38 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:08:39 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:08:40 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x8427f99f, L:/192.168.31.193:5006 - R:/192.168.31.215:42934] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42934
+2023-03-21 03:08:40 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:08:40 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:08:40 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 03:08:40 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 03:08:43 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x50ef00d4, L:/192.168.31.193:5006 - R:/192.168.31.215:42936] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42936
+2023-03-21 03:08:43 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:08:43 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:08:43 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play-fe.googleapis.com ，端口： 443
+2023-03-21 03:08:44 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play-fe.googleapis.com ，端口： 443
+2023-03-21 03:08:52 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x22aa91d4, L:/192.168.31.193:5006 - R:/192.168.31.215:42938] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42938
+2023-03-21 03:08:52 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:08:52 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:08:52 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:08:52 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:08:53 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x43918449, L:/192.168.31.193:5006 - R:/192.168.31.215:42940] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42940
+2023-03-21 03:08:53 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:08:53 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:08:53 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr5---sn-ab02a0nfpgxapox-bh2ez.gvt1.com ，端口： 443
+2023-03-21 03:08:53 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr5---sn-ab02a0nfpgxapox-bh2ez.gvt1.com ，端口： 443
+2023-03-21 03:09:32 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xac426813, L:/192.168.31.193:5006 - R:/192.168.31.215:42942] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42942
+2023-03-21 03:09:32 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:09:32 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:09:32 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr1---sn-ab02a0nfpgxapox-bh2es.gvt1.com ，端口： 443
+2023-03-21 03:09:32 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr1---sn-ab02a0nfpgxapox-bh2es.gvt1.com ，端口： 443
+2023-03-21 03:09:34 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x6531c709, L:/192.168.31.193:5006 - R:/192.168.31.215:42944] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42944
+2023-03-21 03:09:34 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:09:34 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:09:34 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr5---sn-ogul7n7s.gvt1.com ，端口： 443
+2023-03-21 03:09:34 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr5---sn-ogul7n7s.gvt1.com ，端口： 443
+2023-03-21 03:09:37 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xd1f5f574, L:/192.168.31.193:5006 - R:/192.168.31.215:42946] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42946
+2023-03-21 03:09:37 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:09:37 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:09:37 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr5---sn-oguesndz.gvt1.com ，端口： 443
+2023-03-21 03:09:37 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr5---sn-oguesndz.gvt1.com ，端口： 443
+2023-03-21 03:10:41 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x9eb23edd, L:/192.168.31.193:5006 - R:/192.168.31.215:42948] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42948
+2023-03-21 03:10:41 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:10:41 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:10:41 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 03:12:17 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x655f8f42, L:/192.168.31.193:5006 - R:/192.168.31.215:42950] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42950
+2023-03-21 03:12:17 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:17 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:17 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： app-measurement.com ，端口： 443
+2023-03-21 03:12:18 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： app-measurement.com ，端口： 443
+2023-03-21 03:12:35 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xc1c22c15, L:/192.168.31.193:5006 - R:/192.168.31.215:42952] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42952
+2023-03-21 03:12:35 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:35 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:35 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： digitalassetlinks.googleapis.com ，端口： 443
+2023-03-21 03:12:35 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： digitalassetlinks.googleapis.com ，端口： 443
+2023-03-21 03:12:35 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xec8381fc, L:/192.168.31.193:5006 - R:/192.168.31.215:42954] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42954
+2023-03-21 03:12:35 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:35 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:35 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 03:12:35 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x22b8dfbb, L:/192.168.31.193:5006 - R:/192.168.31.215:42956] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42956
+2023-03-21 03:12:35 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:35 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:35 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 03:12:35 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x89d5ca39, L:/192.168.31.193:5006 - R:/192.168.31.215:42958] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42958
+2023-03-21 03:12:35 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:35 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:35 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 03:12:35 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 03:12:35 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 03:12:35 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 03:12:37 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x7ac55d05, L:/192.168.31.193:5006 - R:/192.168.31.215:42960] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42960
+2023-03-21 03:12:37 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:37 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:37 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.googleapis.com ，端口： 443
+2023-03-21 03:12:37 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.googleapis.com ，端口： 443
+2023-03-21 03:12:38 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xa381d788, L:/192.168.31.193:5006 - R:/192.168.31.215:42962] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42962
+2023-03-21 03:12:38 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:38 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:38 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.googleapis.com ，端口： 443
+2023-03-21 03:12:38 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.googleapis.com ，端口： 443
+2023-03-21 03:12:39 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xd7f74d41, L:/192.168.31.193:5006 - R:/192.168.31.215:42964] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42964
+2023-03-21 03:12:39 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:39 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:39 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.google.com ，端口： 443
+2023-03-21 03:12:39 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x148b2667, L:/192.168.31.193:5006 - R:/192.168.31.215:42966] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42966
+2023-03-21 03:12:39 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:39 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:39 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： firebaseinstallations.googleapis.com ，端口： 443
+2023-03-21 03:12:39 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： firebaseinstallations.googleapis.com ，端口： 443
+2023-03-21 03:12:39 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.google.com ，端口： 443
+2023-03-21 03:12:39 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xf5b94c77, L:/192.168.31.193:5006 - R:/192.168.31.215:42968] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42968
+2023-03-21 03:12:39 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:39 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:39 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.google.com ，端口： 443
+2023-03-21 03:12:39 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.google.com ，端口： 443
+2023-03-21 03:12:40 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xadb8f96d, L:/192.168.31.193:5006 - R:/192.168.31.215:42970] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42970
+2023-03-21 03:12:40 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:40 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:40 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.apis.google.com ，端口： 443
+2023-03-21 03:12:40 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.apis.google.com ，端口： 443
+2023-03-21 03:12:45 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x4689b2ce, L:/192.168.31.193:5006 - R:/192.168.31.215:42973] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42973
+2023-03-21 03:12:45 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:45 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xa16e746f, L:/192.168.31.193:5006 - R:/192.168.31.215:42974] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42974
+2023-03-21 03:12:45 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:45 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:45 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： clientservices.googleapis.com ，端口： 443
+2023-03-21 03:12:45 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:45 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:45 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:45 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： clientservices.googleapis.com ，端口： 443
+2023-03-21 03:12:45 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xffda4bb4, L:/192.168.31.193:5006 - R:/192.168.31.215:42976] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42976
+2023-03-21 03:12:45 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:45 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:45 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 03:12:46 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 03:12:47 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x5dbc4f15, L:/192.168.31.193:5006 - R:/192.168.31.215:42978] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42978
+2023-03-21 03:12:47 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:47 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:47 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： notifications-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:47 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： notifications-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:48 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x32334d5a, L:/192.168.31.193:5006 - R:/192.168.31.215:42981] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42981
+2023-03-21 03:12:48 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:48 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x5ba01b9a, L:/192.168.31.193:5006 - R:/192.168.31.215:42982] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42982
+2023-03-21 03:12:48 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:48 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:48 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： dl.google.com ，端口： 443
+2023-03-21 03:12:48 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x83362e32, L:/192.168.31.193:5006 - R:/192.168.31.215:42984] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42984
+2023-03-21 03:12:48 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:48 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:48 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： dl.google.com ，端口： 443
+2023-03-21 03:12:48 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:48 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： dl.google.com ，端口： 443
+2023-03-21 03:12:48 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： dl.google.com ，端口： 443
+2023-03-21 03:12:48 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： dl.google.com ，端口： 443
+2023-03-21 03:12:48 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： dl.google.com ，端口： 443
+2023-03-21 03:12:49 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x0966bc8d, L:/192.168.31.193:5006 - R:/192.168.31.215:42986] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42986
+2023-03-21 03:12:49 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:49 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:49 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:49 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:49 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x7ab22266, L:/192.168.31.193:5006 - R:/192.168.31.215:42988] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42988
+2023-03-21 03:12:49 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:49 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:49 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr8---sn-ab02a0nfpgxapox-bh2zz.gvt1.com ，端口： 443
+2023-03-21 03:12:50 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr8---sn-ab02a0nfpgxapox-bh2zz.gvt1.com ，端口： 443
+2023-03-21 03:12:50 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x6582cc10, L:/192.168.31.193:5006 - R:/192.168.31.215:42990] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42990
+2023-03-21 03:12:50 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:50 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:50 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:50 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x934e69f1, L:/192.168.31.193:5006 - R:/192.168.31.215:42992] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42992
+2023-03-21 03:12:50 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:50 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:50 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:50 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x5562adf0, L:/192.168.31.193:5006 - R:/192.168.31.215:42994] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42994
+2023-03-21 03:12:50 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:50 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:50 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:50 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:50 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x7fc0dbf9, L:/192.168.31.193:5006 - R:/192.168.31.215:42996] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42996
+2023-03-21 03:12:50 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:50 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:50 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:50 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:50 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:50 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:51 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x3544f808, L:/192.168.31.193:5006 - R:/192.168.31.215:42998] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:42998
+2023-03-21 03:12:51 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:51 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:51 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:51 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:52 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xe913fc84, L:/192.168.31.193:5006 - R:/192.168.31.215:43001] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43001
+2023-03-21 03:12:52 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:52 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:52 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:52 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x8a0d7f48, L:/192.168.31.193:5006 - R:/192.168.31.215:43002] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43002
+2023-03-21 03:12:52 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:52 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:52 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:52 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:52 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:56 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x120b16d6, L:/192.168.31.193:5006 - R:/192.168.31.215:43004] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43004
+2023-03-21 03:12:56 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:56 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:56 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:56 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x0247a0bb, L:/192.168.31.193:5006 - R:/192.168.31.215:43006] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43006
+2023-03-21 03:12:56 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:56 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:56 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:56 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:56 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x0ba04e91, L:/192.168.31.193:5006 - R:/192.168.31.215:43008] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43008
+2023-03-21 03:12:56 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:56 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:56 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:56 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:56 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:56 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x7942a26b, L:/192.168.31.193:5006 - R:/192.168.31.215:43010] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43010
+2023-03-21 03:12:56 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:56 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:56 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr3---sn-oguesn6s.gvt1.com ，端口： 443
+2023-03-21 03:12:56 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr3---sn-oguesn6s.gvt1.com ，端口： 443
+2023-03-21 03:12:57 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x7d67231e, L:/192.168.31.193:5006 - R:/192.168.31.215:43012] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43012
+2023-03-21 03:12:57 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:57 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:57 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:57 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:57 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x6f9444df, L:/192.168.31.193:5006 - R:/192.168.31.215:43014] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43014
+2023-03-21 03:12:57 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:57 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:57 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:57 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:58 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x8ef3b2ea, L:/192.168.31.193:5006 - R:/192.168.31.215:43016] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43016
+2023-03-21 03:12:58 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:58 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:58 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:58 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:58 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x10f73c19, L:/192.168.31.193:5006 - R:/192.168.31.215:43018] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43018
+2023-03-21 03:12:58 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:58 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:58 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:58 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:59 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xaa998598, L:/192.168.31.193:5006 - R:/192.168.31.215:43020] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43020
+2023-03-21 03:12:59 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:59 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:59 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:59 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:59 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xec3c61f7, L:/192.168.31.193:5006 - R:/192.168.31.215:43022] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43022
+2023-03-21 03:12:59 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:59 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:59 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:59 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:12:59 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xaa1992f3, L:/192.168.31.193:5006 - R:/192.168.31.215:43024] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43024
+2023-03-21 03:12:59 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:12:59 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:12:59 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr6---sn-ab02a0nfpgxapox-jwwk.gvt1.com ，端口： 443
+2023-03-21 03:12:59 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr6---sn-ab02a0nfpgxapox-jwwk.gvt1.com ，端口： 443
+2023-03-21 03:13:00 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x267011f2, L:/192.168.31.193:5006 - R:/192.168.31.215:43026] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43026
+2023-03-21 03:13:00 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:00 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:00 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:00 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:00 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x2295cea7, L:/192.168.31.193:5006 - R:/192.168.31.215:43028] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43028
+2023-03-21 03:13:00 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:00 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:00 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:00 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:00 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x96a3e387, L:/192.168.31.193:5006 - R:/192.168.31.215:43030] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43030
+2023-03-21 03:13:00 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:00 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:00 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:00 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:01 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xc5b11d07, L:/192.168.31.193:5006 - R:/192.168.31.215:43032] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43032
+2023-03-21 03:13:01 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:01 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:01 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:01 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:01 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xa3162e13, L:/192.168.31.193:5006 - R:/192.168.31.215:43034] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43034
+2023-03-21 03:13:01 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:01 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:01 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:01 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:01 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x0b37768b, L:/192.168.31.193:5006 - R:/192.168.31.215:43036] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43036
+2023-03-21 03:13:01 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:01 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:01 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:01 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:02 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x5ab6a373, L:/192.168.31.193:5006 - R:/192.168.31.215:43038] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43038
+2023-03-21 03:13:02 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:02 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:02 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:02 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:02 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x4fe3d251, L:/192.168.31.193:5006 - R:/192.168.31.215:43040] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43040
+2023-03-21 03:13:02 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:02 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:02 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:02 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x42e4b803, L:/192.168.31.193:5006 - R:/192.168.31.215:43042] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43042
+2023-03-21 03:13:02 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:02 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:02 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:02 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:02 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:03 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x6adab1c5, L:/192.168.31.193:5006 - R:/192.168.31.215:43044] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43044
+2023-03-21 03:13:03 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:03 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:03 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:03 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:03 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xce401057, L:/192.168.31.193:5006 - R:/192.168.31.215:43046] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43046
+2023-03-21 03:13:03 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:03 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:03 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:03 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:03 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x37523efc, L:/192.168.31.193:5006 - R:/192.168.31.215:43048] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43048
+2023-03-21 03:13:03 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:03 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:03 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:04 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:04 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xb1daaf5a, L:/192.168.31.193:5006 - R:/192.168.31.215:43050] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43050
+2023-03-21 03:13:04 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:04 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:04 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:04 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:04 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xbfd030a5, L:/192.168.31.193:5006 - R:/192.168.31.215:43052] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43052
+2023-03-21 03:13:04 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:04 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:04 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:04 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:04 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x96b8897a, L:/192.168.31.193:5006 - R:/192.168.31.215:43054] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43054
+2023-03-21 03:13:04 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:04 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:04 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:05 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:07 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x177c8223, L:/192.168.31.193:5006 - R:/192.168.31.215:43056] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43056
+2023-03-21 03:13:07 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:07 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:07 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： redirector.gvt1.com ，端口： 80
+2023-03-21 03:13:07 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： redirector.gvt1.com ，端口： 80
+2023-03-21 03:13:07 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x47be901c, L:/192.168.31.193:5006 - R:/192.168.31.215:43058] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43058
+2023-03-21 03:13:07 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:07 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:07 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:07 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： geller-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:07 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xa6a848c8, L:/192.168.31.193:5006 - R:/192.168.31.215:43060] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43060
+2023-03-21 03:13:07 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:07 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:07 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： r1---sn-ab02a0nfpgxapox-bh2zs.gvt1.com ，端口： 80
+2023-03-21 03:13:08 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： r1---sn-ab02a0nfpgxapox-bh2zs.gvt1.com ，端口： 80
+2023-03-21 03:13:18 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x5bf23c5a, L:/192.168.31.193:5006 - R:/192.168.31.215:43062] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43062
+2023-03-21 03:13:18 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:18 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:18 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： speechs3proto2-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:18 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： speechs3proto2-pa.googleapis.com ，端口： 443
+2023-03-21 03:13:36 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x5134543a, L:/192.168.31.193:5006 - R:/192.168.31.215:43064] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43064
+2023-03-21 03:13:36 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:13:36 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:13:36 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:13:36 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:14:19 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x25330545, L:/192.168.31.193:5006 - R:/192.168.31.215:43066] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43066
+2023-03-21 03:14:19 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:14:19 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:14:19 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： pagead2.googlesyndication.com ，端口： 443
+2023-03-21 03:14:19 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： pagead2.googlesyndication.com ，端口： 443
+2023-03-21 03:14:52 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x94c1b662, L:/192.168.31.193:5006 - R:/192.168.31.215:43068] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43068
+2023-03-21 03:14:52 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:14:52 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:14:52 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 03:14:52 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xd2465f5f, L:/192.168.31.193:5006 - R:/192.168.31.215:43070] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43070
+2023-03-21 03:14:52 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:14:52 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:14:52 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： digitalassetlinks.googleapis.com ，端口： 443
+2023-03-21 03:14:52 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： digitalassetlinks.googleapis.com ，端口： 443
+2023-03-21 03:14:55 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xffc0ed1f, L:/192.168.31.193:5006 - R:/192.168.31.215:43072] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43072
+2023-03-21 03:14:55 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:14:55 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:14:55 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr1---sn-ab02a0nfpgxapox-bh2z6.gvt1.com ，端口： 443
+2023-03-21 03:14:55 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr1---sn-ab02a0nfpgxapox-bh2z6.gvt1.com ，端口： 443
+2023-03-21 03:14:58 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xbb1f4702, L:/192.168.31.193:5006 - R:/192.168.31.215:43074] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43074
+2023-03-21 03:14:58 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:14:58 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:14:58 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr3---sn-oguesn6r.gvt1.com ，端口： 443
+2023-03-21 03:14:58 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr3---sn-oguesn6r.gvt1.com ，端口： 443
+2023-03-21 03:15:18 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x6866ba0c, L:/192.168.31.193:5006 - R:/192.168.31.215:43076] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43076
+2023-03-21 03:15:18 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:18 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:18 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： mtalk.google.com ，端口： 5228
+2023-03-21 03:15:18 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： mtalk.google.com ，端口： 5228
+2023-03-21 03:15:20 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x8ee29c00, L:/192.168.31.193:5006 - R:/192.168.31.215:43078] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43078
+2023-03-21 03:15:20 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:20 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:20 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 7
+2023-03-21 03:15:23 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xbd4c35ac, L:/192.168.31.193:5006 - R:/192.168.31.215:43080] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43080
+2023-03-21 03:15:23 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:23 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:23 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： app-measurement.com ，端口： 443
+2023-03-21 03:15:23 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： app-measurement.com ，端口： 443
+2023-03-21 03:15:23 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x75d5005c, L:/192.168.31.193:5006 - R:/192.168.31.215:43082] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43082
+2023-03-21 03:15:23 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:23 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:23 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 03:15:24 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 03:15:25 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x93908a76, L:/192.168.31.193:5006 - R:/192.168.31.215:43084] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43084
+2023-03-21 03:15:25 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:25 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:25 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.google.com ，端口： 443
+2023-03-21 03:15:25 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.google.com ，端口： 443
+2023-03-21 03:15:28 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xc682878f, L:/192.168.31.193:5006 - R:/192.168.31.215:43086] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43086
+2023-03-21 03:15:28 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:28 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:28 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： firebaseinstallations.googleapis.com ，端口： 443
+2023-03-21 03:15:28 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x68a951fb, L:/192.168.31.193:5006 - R:/192.168.31.215:43088] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43088
+2023-03-21 03:15:28 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:28 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:28 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： firebase-settings.crashlytics.com ，端口： 443
+2023-03-21 03:15:28 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： firebaseinstallations.googleapis.com ，端口： 443
+2023-03-21 03:15:28 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： firebase-settings.crashlytics.com ，端口： 443
+2023-03-21 03:15:29 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xf10babff, L:/192.168.31.193:5006 - R:/192.168.31.215:43090] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43090
+2023-03-21 03:15:29 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:29 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:29 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： c.amazon-adsystem.com ，端口： 443
+2023-03-21 03:15:29 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： c.amazon-adsystem.com ，端口： 443
+2023-03-21 03:15:30 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x020e614d, L:/192.168.31.193:5006 - R:/192.168.31.215:43092] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43092
+2023-03-21 03:15:30 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:30 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:30 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr5---sn-ab02a0nfpgxapox-bh2ez.gvt1.com ，端口： 443
+2023-03-21 03:15:31 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr5---sn-ab02a0nfpgxapox-bh2ez.gvt1.com ，端口： 443
+2023-03-21 03:15:31 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xbb82a7c9, L:/192.168.31.193:5006 - R:/192.168.31.215:43094] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43094
+2023-03-21 03:15:31 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:31 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:31 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.apis.google.com ，端口： 443
+2023-03-21 03:15:31 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.apis.google.com ，端口： 443
+2023-03-21 03:15:31 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x450eefc3, L:/192.168.31.193:5006 - R:/192.168.31.215:43096] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43096
+2023-03-21 03:15:31 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:31 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:31 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： notifications-pa.googleapis.com ，端口： 443
+2023-03-21 03:15:31 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： notifications-pa.googleapis.com ，端口： 443
+2023-03-21 03:15:32 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x71ca4ac9, L:/192.168.31.193:5006 - R:/192.168.31.215:43098] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43098
+2023-03-21 03:15:32 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:32 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:32 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： firebaseremoteconfig.googleapis.com ，端口： 443
+2023-03-21 03:15:32 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： firebaseremoteconfig.googleapis.com ，端口： 443
+2023-03-21 03:15:33 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xb5b5834d, L:/192.168.31.193:5006 - R:/192.168.31.215:43100] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43100
+2023-03-21 03:15:33 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:33 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:33 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： pangolin16.sgsnssdk.com ，端口： 443
+2023-03-21 03:15:33 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x3f244ea3, L:/192.168.31.193:5006 - R:/192.168.31.215:43102] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43102
+2023-03-21 03:15:33 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:33 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:33 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： sf16-static.i18n-pglstatp.com ，端口： 443
+2023-03-21 03:15:33 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： pangolin16.sgsnssdk.com ，端口： 443
+2023-03-21 03:15:33 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： sf16-static.i18n-pglstatp.com ，端口： 443
+2023-03-21 03:15:33 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x684b1f23, L:/192.168.31.193:5006 - R:/192.168.31.215:43104] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43104
+2023-03-21 03:15:33 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:33 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:33 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： api16-access-sg.pangle.io ，端口： 443
+2023-03-21 03:15:34 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x98817ab7, L:/192.168.31.193:5006 - R:/192.168.31.215:43106] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43106
+2023-03-21 03:15:34 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:34 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:34 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： pangolin16.sgsnssdk.com ，端口： 443
+2023-03-21 03:15:34 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： pangolin16.sgsnssdk.com ，端口： 443
+2023-03-21 03:15:34 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xe84de83c, L:/192.168.31.193:5006 - R:/192.168.31.215:43108] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43108
+2023-03-21 03:15:34 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:34 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:34 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： beacons.gvt2.com ，端口： 443
+2023-03-21 03:15:34 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： beacons.gvt2.com ，端口： 443
+2023-03-21 03:15:34 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： api16-access-sg.pangle.io ，端口： 443
+2023-03-21 03:15:41 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x990c42a9, L:/192.168.31.193:5006 - R:/192.168.31.215:43110] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43110
+2023-03-21 03:15:41 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:41 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:41 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.googleapis.com ，端口： 443
+2023-03-21 03:15:41 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： android.googleapis.com ，端口： 443
+2023-03-21 03:15:43 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x3c870d6f, L:/192.168.31.193:5006 - R:/192.168.31.215:43112] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43112
+2023-03-21 03:15:43 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:43 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:43 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： playatoms-pa.googleapis.com ，端口： 443
+2023-03-21 03:15:43 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： playatoms-pa.googleapis.com ，端口： 443
+2023-03-21 03:15:50 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x7e3799bc, L:/192.168.31.193:5006 - R:/192.168.31.215:43114] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43114
+2023-03-21 03:15:50 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:50 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:50 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： googleads.g.doubleclick.net ，端口： 443
+2023-03-21 03:15:51 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： googleads.g.doubleclick.net ，端口： 443
+2023-03-21 03:15:56 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x294979e8, L:/192.168.31.193:5006 - R:/192.168.31.215:43116] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43116
+2023-03-21 03:15:56 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:56 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:56 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:15:57 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:15:57 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x922b8f71, L:/192.168.31.193:5006 - R:/192.168.31.215:43118] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43118
+2023-03-21 03:15:57 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:57 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:57 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:15:57 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:15:57 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x6d743d70, L:/192.168.31.193:5006 - R:/192.168.31.215:43120] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43120
+2023-03-21 03:15:57 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:57 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:57 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr5---sn-ab02a0nfpgxapox-jwwk.gvt1.com ，端口： 443
+2023-03-21 03:15:57 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x8f5f3e06, L:/192.168.31.193:5006 - R:/192.168.31.215:43122] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43122
+2023-03-21 03:15:57 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:15:57 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:15:57 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr2---sn-ab02a0nfpgxapox-bh2sd.gvt1.com ，端口： 443
+2023-03-21 03:15:58 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr5---sn-ab02a0nfpgxapox-jwwk.gvt1.com ，端口： 443
+2023-03-21 03:15:58 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr2---sn-ab02a0nfpgxapox-bh2sd.gvt1.com ，端口： 443
+2023-03-21 03:16:02 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x89bc3f6f, L:/192.168.31.193:5006 - R:/192.168.31.215:43124] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43124
+2023-03-21 03:16:02 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:16:02 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:16:02 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 03:16:02 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 03:16:03 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xaff19be1, L:/192.168.31.193:5006 - R:/192.168.31.215:43126] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43126
+2023-03-21 03:16:03 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:16:03 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:16:03 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 03:16:03 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 03:16:11 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xdb7e7452, L:/192.168.31.193:5006 - R:/192.168.31.215:43128] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43128
+2023-03-21 03:16:11 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:16:11 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:16:11 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： dl.google.com ，端口： 443
+2023-03-21 03:16:11 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： dl.google.com ，端口： 443
+2023-03-21 03:16:14 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x99f99e30, L:/192.168.31.193:5006 - R:/192.168.31.215:43130] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43130
+2023-03-21 03:16:14 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:16:14 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:16:14 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr3---sn-ab02a0nfpgxapox-bh2zr.gvt1.com ，端口： 443
+2023-03-21 03:16:14 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr3---sn-ab02a0nfpgxapox-bh2zr.gvt1.com ，端口： 443
+2023-03-21 03:16:19 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xc59467c0, L:/192.168.31.193:5006 - R:/192.168.31.215:43132] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43132
+2023-03-21 03:16:19 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:16:19 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:16:19 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr1---sn-ogul7nel.gvt1.com ，端口： 443
+2023-03-21 03:16:19 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr1---sn-ogul7nel.gvt1.com ，端口： 443
+2023-03-21 03:16:21 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xe79c2aec, L:/192.168.31.193:5006 - R:/192.168.31.215:43134] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43134
+2023-03-21 03:16:21 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:16:21 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:16:21 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr8---sn-ab02a0nfpgxapox-jwwe7.gvt1.com ，端口： 443
+2023-03-21 03:16:21 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr8---sn-ab02a0nfpgxapox-jwwe7.gvt1.com ，端口： 443
+2023-03-21 03:16:22 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xc6b1f6eb, L:/192.168.31.193:5006 - R:/192.168.31.215:43136] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43136
+2023-03-21 03:16:22 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:16:22 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:16:22 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr8---sn-ab02a0nfpgxapox-jwwe7.gvt1.com ，端口： 443
+2023-03-21 03:16:24 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr8---sn-ab02a0nfpgxapox-jwwe7.gvt1.com ，端口： 443
+2023-03-21 03:16:30 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xca5a07e2, L:/192.168.31.193:5006 - R:/192.168.31.215:43138] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43138
+2023-03-21 03:16:30 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:16:30 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:16:30 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： footprints-pa.googleapis.com ，端口： 443
+2023-03-21 03:16:30 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： footprints-pa.googleapis.com ，端口： 443
+2023-03-21 03:16:43 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x31b117fa, L:/192.168.31.193:5006 - R:/192.168.31.215:43140] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43140
+2023-03-21 03:16:43 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:16:43 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:16:43 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:16:44 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:17:15 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xc9e21bcb, L:/192.168.31.193:5006 - R:/192.168.31.215:43142] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43142
+2023-03-21 03:17:15 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:17:15 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:17:15 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 03:17:15 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xb8daa81e, L:/192.168.31.193:5006 - R:/192.168.31.215:43144] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43144
+2023-03-21 03:17:15 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:17:15 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:17:15 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 03:17:15 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 03:17:15 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 03:17:20 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xd476cac3, L:/192.168.31.193:5006 - R:/192.168.31.215:43146] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43146
+2023-03-21 03:17:20 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:17:20 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:17:20 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr7---sn-ab02a0nfpgxapox-bh2es.gvt1.com ，端口： 443
+2023-03-21 03:17:20 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr7---sn-ab02a0nfpgxapox-bh2es.gvt1.com ，端口： 443
+2023-03-21 03:17:24 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x2787dbc9, L:/192.168.31.193:5006 - R:/192.168.31.215:43148] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43148
+2023-03-21 03:17:24 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:17:24 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:17:24 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr4---sn-oguelnsr.gvt1.com ，端口： 443
+2023-03-21 03:17:25 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr4---sn-oguelnsr.gvt1.com ，端口： 443
+2023-03-21 03:17:27 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xdc8e3aea, L:/192.168.31.193:5006 - R:/192.168.31.215:43150] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43150
+2023-03-21 03:17:27 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:17:27 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:17:27 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr4---sn-a5msenl7.gvt1.com ，端口： 443
+2023-03-21 03:17:39 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x7d422d00, L:/192.168.31.193:5006 - R:/192.168.31.215:43152] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43152
+2023-03-21 03:17:39 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:17:39 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:17:39 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr4---sn-a5msenl7.gvt1.com ，端口： 443
+2023-03-21 03:17:39 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x4a4d398c, L:/192.168.31.193:5006 - R:/192.168.31.215:43154] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43154
+2023-03-21 03:17:39 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:17:39 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xb07f5199, L:/192.168.31.193:5006 - R:/192.168.31.215:43156] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43156
+2023-03-21 03:17:39 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:17:39 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:17:39 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 03:17:39 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:17:39 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 03:17:39 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 03:17:40 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xae20008c, L:/192.168.31.193:5006 - R:/192.168.31.215:43158] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43158
+2023-03-21 03:17:40 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:17:40 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:17:40 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr4---sn-ab02a0nfpgxapox-bh2sd.gvt1.com ，端口： 443
+2023-03-21 03:17:40 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： connectivitycheck.gstatic.com ，端口： 443
+2023-03-21 03:17:51 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x667d2dea, L:/192.168.31.193:5006 - R:/192.168.31.215:43160] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43160
+2023-03-21 03:17:51 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:17:51 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:17:51 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:17:54 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:17:55 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr4---sn-ab02a0nfpgxapox-bh2sd.gvt1.com ，端口： 443
+2023-03-21 03:17:59 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x71d65255, L:/192.168.31.193:5006 - R:/192.168.31.215:43162] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43162
+2023-03-21 03:17:59 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:17:59 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:17:59 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:17:59 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:18:00 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x9158deaf, L:/192.168.31.193:5006 - R:/192.168.31.215:43164] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43164
+2023-03-21 03:18:00 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:18:00 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:18:00 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr1---sn-oguelnzy.gvt1.com ，端口： 443
+2023-03-21 03:18:01 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr1---sn-oguelnzy.gvt1.com ，端口： 443
+2023-03-21 03:18:02 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x20f7e50b, L:/192.168.31.193:5006 - R:/192.168.31.215:43166] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43166
+2023-03-21 03:18:02 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:18:02 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:18:02 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr4---sn-a5msenl7.gvt1.com ，端口： 443
+2023-03-21 03:18:03 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr4---sn-a5msenl7.gvt1.com ，端口： 443
+2023-03-21 03:18:18 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x1ae7a5ac, L:/192.168.31.193:5006 - R:/192.168.31.215:43168] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43168
+2023-03-21 03:18:18 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:18:18 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:18:18 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： beacons4.gvt2.com ，端口： 443
+2023-03-21 03:18:18 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： beacons4.gvt2.com ，端口： 443
+2023-03-21 03:18:19 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x8ae569ac, L:/192.168.31.193:5006 - R:/192.168.31.215:43170] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43170
+2023-03-21 03:18:19 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:18:19 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:18:19 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： digitalassetlinks.googleapis.com ，端口： 443
+2023-03-21 03:18:19 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： digitalassetlinks.googleapis.com ，端口： 443
+2023-03-21 03:18:22 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x946d1b79, L:/192.168.31.193:5006 - R:/192.168.31.215:43172] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43172
+2023-03-21 03:18:22 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:18:22 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:18:22 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr2---sn-ab02a0nfpgxapox-bh2es.gvt1.com ，端口： 443
+2023-03-21 03:18:22 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr2---sn-ab02a0nfpgxapox-bh2es.gvt1.com ，端口： 443
+2023-03-21 03:18:59 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xa113cc1b, L:/192.168.31.193:5006 - R:/192.168.31.215:43174] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43174
+2023-03-21 03:18:59 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:18:59 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:18:59 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 03:18:59 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： www.googleapis.com ，端口： 443
+2023-03-21 03:19:02 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x27e519a4, L:/192.168.31.193:5006 - R:/192.168.31.215:43176] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43176
+2023-03-21 03:19:02 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:19:02 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:19:02 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 03:19:20 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xaa6648c6, L:/192.168.31.193:5006 - R:/192.168.31.215:43178] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43178
+2023-03-21 03:19:20 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:19:20 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:19:20 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:19:20 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:19:22 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x65fe4f7c, L:/192.168.31.193:5006 - R:/192.168.31.215:43180] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43180
+2023-03-21 03:19:22 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:19:22 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:19:22 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr5---sn-ogul7n7d.gvt1.com ，端口： 443
+2023-03-21 03:19:22 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr5---sn-ogul7n7d.gvt1.com ，端口： 443
+2023-03-21 03:19:25 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x80bc633b, L:/192.168.31.193:5006 - R:/192.168.31.215:43182] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43182
+2023-03-21 03:19:25 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:19:25 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:19:25 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr5---sn-oguesn6d.gvt1.com ，端口： 443
+2023-03-21 03:19:25 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr5---sn-oguesn6d.gvt1.com ，端口： 443
+2023-03-21 03:19:27 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x98340196, L:/192.168.31.193:5006 - R:/192.168.31.215:43184] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43184
+2023-03-21 03:19:27 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:19:27 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:19:27 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr5---sn-ab02a0nfpgxapox-jwwy.gvt1.com ，端口： 443
+2023-03-21 03:19:27 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr5---sn-ab02a0nfpgxapox-jwwy.gvt1.com ，端口： 443
+2023-03-21 03:19:35 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xe9270c76, L:/192.168.31.193:5006 - R:/192.168.31.215:43186] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43186
+2023-03-21 03:19:35 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:19:35 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:19:35 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr3---sn-ogul7n76.gvt1.com ，端口： 443
+2023-03-21 03:19:35 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr3---sn-ogul7n76.gvt1.com ，端口： 443
+2023-03-21 03:19:37 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x8fc0e3fd, L:/192.168.31.193:5006 - R:/192.168.31.215:43188] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43188
+2023-03-21 03:19:37 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:19:37 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:19:37 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr3---sn-oguesndl.gvt1.com ，端口： 443
+2023-03-21 03:19:38 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： rr3---sn-oguesndl.gvt1.com ，端口： 443
+2023-03-21 03:22:39 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x4f0f9fac, L:/192.168.31.193:5006 - R:/192.168.31.215:43190] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43190
+2023-03-21 03:22:39 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:22:39 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:22:39 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:22:40 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:23:13 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xd496c6da, L:/192.168.31.193:5006 - R:/192.168.31.215:43192] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43192
+2023-03-21 03:23:13 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:23:13 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:23:13 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 03:27:23 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xb82b276b, L:/192.168.31.193:5006 - R:/192.168.31.215:43194] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43194
+2023-03-21 03:27:23 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:27:23 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:27:23 [jproxy-worker-nio--9] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 03:28:41 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.CloseTimeoutChannelHandler - connection timeout, close IdleStateEvent(WRITER_IDLE, first)
+2023-03-21 03:31:34 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xd5b4332c, L:/192.168.31.193:5006 - R:/192.168.31.215:43198] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43198
+2023-03-21 03:31:34 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:31:34 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:31:34 [jproxy-worker-nio--10] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 03:33:07 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x48566e06, L:/192.168.31.193:5006 - R:/192.168.31.215:43200] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43200
+2023-03-21 03:33:07 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:33:07 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:33:07 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:33:07 [jproxy-worker-nio--11] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:34:21 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xb255f0a1, L:/192.168.31.193:5006 - R:/192.168.31.215:43203] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43203
+2023-03-21 03:34:21 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:34:21 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:34:21 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:34:21 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： play.googleapis.com ，端口： 443
+2023-03-21 03:35:44 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x7d89711f, L:/192.168.31.193:5006 - R:/192.168.31.215:43205] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43205
+2023-03-21 03:35:44 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:35:44 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:35:44 [jproxy-worker-nio--1] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 03:39:55 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x5904e524, L:/192.168.31.193:5006 - R:/192.168.31.215:43207] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43207
+2023-03-21 03:39:55 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:39:55 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:39:55 [jproxy-worker-nio--2] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 03:44:05 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x6af25742, L:/192.168.31.193:5006 - R:/192.168.31.215:43209] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43209
+2023-03-21 03:44:05 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:44:05 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:44:05 [jproxy-worker-nio--3] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 03:48:16 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x953d09c4, L:/192.168.31.193:5006 - R:/192.168.31.215:43211] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43211
+2023-03-21 03:48:16 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:48:16 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:48:16 [jproxy-worker-nio--4] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 03:52:27 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0xae07c910, L:/192.168.31.193:5006 - R:/192.168.31.215:43213] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43213
+2023-03-21 03:52:27 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:52:27 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:52:27 [jproxy-worker-nio--5] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 03:56:37 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x6096243c, L:/192.168.31.193:5006 - R:/192.168.31.215:43215] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43215
+2023-03-21 03:56:37 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 03:56:37 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 03:56:37 [jproxy-worker-nio--6] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 04:00:47 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x85638185, L:/192.168.31.193:5006 - R:/192.168.31.215:43217] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43217
+2023-03-21 04:00:47 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 04:00:47 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 04:00:47 [jproxy-worker-nio--7] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80
+2023-03-21 04:04:58 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x1eb1c35b, L:/192.168.31.193:5006 - R:/192.168.31.215:43219] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:43219
+2023-03-21 04:04:58 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-21 04:04:58 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-21 04:04:58 [jproxy-worker-nio--8] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：DOMAIN(3) ,地址： lb.leeequ.com ，端口： 80

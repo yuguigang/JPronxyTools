@@ -1,0 +1,46 @@
+2023-03-15 16:28:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.192.2
+2023-03-15 16:28:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 527 ms
+2023-03-15 16:28:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.192.2
+2023-03-15 16:28:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-03-15 16:28:04 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.192.2
+2023-03-15 16:28:04 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-03-15 16:28:18 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.192.2
+2023-03-15 16:28:18 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 188 ms
+2023-03-15 16:28:20 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.192.2
+2023-03-15 16:28:20 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-03-15 17:17:33 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.192.2
+2023-03-15 17:17:33 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 677 ms
+2023-03-15 17:17:33 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.192.2
+2023-03-15 17:17:33 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-03-15 17:17:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.192.2
+2023-03-15 17:17:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-03-15 17:17:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.192.2
+2023-03-15 17:17:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 243 ms
+2023-03-15 17:18:13 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.192.2
+2023-03-15 17:18:13 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 259 ms
+2023-03-15 17:18:15 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.192.2
+2023-03-15 17:18:15 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-03-15 17:23:59 [JavaFX Application Thread] INFO  c.z.j.f.p.c.LoadCommand - 读取文件list： [C:\Users\yugang\Desktop\test2.txt]
+2023-03-15 17:24:08 [JavaFX Application Thread] INFO  c.z.j.f.p.c.LoadCommand - 读取文件list： [C:\Users\yugang\Desktop\t1.txt]
+2023-03-15 17:24:11 [JavaFX Application Thread] INFO  c.z.j.f.p.g.ProxyCheckerPage - 切换按钮：选择状态
+2023-03-15 17:24:11 [JavaFX Application Thread] INFO  c.z.j.f.p.c.ProxyCheckCommand - UserSettings{timeout=5000, threads=100, ip='106.84.192.2', type=HTTP, colorScheme=[ELITE=-color-base-2, ANONYMOUS=#e6e6b3, TRANSPARENT=#ffb3b3]}
+2023-03-15 17:24:11 [pool-3-thread-59] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 203.198.207.253 country: Hong Kong anonymity: ELITE
+2023-03-15 17:24:11 [pool-3-thread-9] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 120.197.219.82 country: China anonymity: ELITE
+2023-03-15 17:24:12 [pool-3-thread-11] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 112.54.41.177 country: China anonymity: ELITE
+2023-03-15 17:24:12 [pool-3-thread-23] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 42.228.61.245 country: China anonymity: ELITE
+2023-03-15 17:24:12 [pool-3-thread-20] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 120.196.188.21 country: China anonymity: ELITE
+2023-03-15 17:24:12 [pool-3-thread-6] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 20.111.54.16 country: France anonymity: ELITE
+2023-03-15 17:24:12 [pool-3-thread-4] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 20.111.54.16 country: France anonymity: ELITE
+2023-03-15 17:24:12 [pool-3-thread-10] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 183.237.47.54 country: China anonymity: ELITE
+2023-03-15 17:24:12 [pool-3-thread-36] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 103.117.192.96 country: Bangladesh anonymity: TRANSPARENT
+2023-03-15 17:24:12 [pool-3-thread-47] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 203.89.126.250 country: Bangladesh anonymity: TRANSPARENT
+2023-03-15 17:24:12 [pool-3-thread-39] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 112.51.96.118 country: China anonymity: ELITE
+2023-03-15 17:24:12 [pool-3-thread-7] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 125.66.100.112 country: China anonymity: ELITE
+2023-03-15 17:24:12 [pool-3-thread-50] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 120.82.174.128 country: China anonymity: ELITE
+2023-03-15 17:24:12 [pool-3-thread-49] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 118.212.152.82 country: China anonymity: ELITE
+2023-03-15 17:24:12 [pool-3-thread-70] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 103.197.251.202 country: Bangladesh anonymity: TRANSPARENT
+2023-03-15 17:24:12 [pool-3-thread-53] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 20.206.106.192 country: Brazil anonymity: ELITE
+2023-03-15 17:24:13 [pool-3-thread-66] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 20.206.106.192 country: Brazil anonymity: ELITE
+2023-03-15 17:24:13 [pool-3-thread-38] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 39.185.232.150 country: China anonymity: ELITE
+2023-03-15 17:24:13 [pool-3-thread-34] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 103.127.1.130 country: Bangladesh anonymity: TRANSPARENT
+2023-03-15 17:24:15 [pool-3-thread-33] INFO  c.z.j.f.p.c.ProxyCheckCommand - connected ip: 154.86.156.254 country: United States anonymity: TRANSPARENT

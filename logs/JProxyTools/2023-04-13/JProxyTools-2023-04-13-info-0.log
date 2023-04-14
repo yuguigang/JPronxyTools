@@ -1,0 +1,599 @@
+2023-04-13 00:45:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:45:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 501 ms
+2023-04-13 00:45:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:45:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 00:45:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:45:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 00:48:06 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:48:06 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 219 ms
+2023-04-13 00:48:07 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:48:07 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 00:48:08 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:48:08 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 00:51:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:51:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 488 ms
+2023-04-13 00:51:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:51:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 00:51:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:51:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 00:54:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:54:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 282 ms
+2023-04-13 00:54:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:54:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 00:54:44 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:54:44 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 00:56:31 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:56:31 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 307 ms
+2023-04-13 00:56:31 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:56:31 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 00:56:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:56:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 00:57:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:57:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 265 ms
+2023-04-13 00:57:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:57:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 00:57:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:57:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 00:58:12 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:58:12 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 246 ms
+2023-04-13 00:58:13 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:58:13 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 00:58:13 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 00:58:13 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:00:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:00:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 276 ms
+2023-04-13 01:00:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:00:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:00:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:00:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:00:51 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:00:51 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 245 ms
+2023-04-13 01:00:52 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:00:52 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:00:52 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:00:52 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:01:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:01:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 256 ms
+2023-04-13 01:01:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:01:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:01:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:01:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:03:01 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:03:01 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 264 ms
+2023-04-13 01:03:02 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:03:02 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:03:02 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:03:02 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:16:01 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:16:01 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 264 ms
+2023-04-13 01:16:02 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:16:02 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 01:16:02 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:16:02 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 01:16:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:16:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 259 ms
+2023-04-13 01:16:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:16:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 01:16:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:16:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:17:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:17:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 227 ms
+2023-04-13 01:17:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:17:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 01:17:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:17:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:21:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:21:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 237 ms
+2023-04-13 01:21:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:21:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:21:18 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:21:18 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 01:27:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:27:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 242 ms
+2023-04-13 01:27:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:27:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:27:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:27:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 01:36:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:36:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 234 ms
+2023-04-13 01:36:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:36:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:36:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:36:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:45:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:45:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 233 ms
+2023-04-13 01:45:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:45:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:45:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:45:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:47:47 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:47:47 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 208 ms
+2023-04-13 01:47:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:47:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 01:47:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:47:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:48:25 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:48:25 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 231 ms
+2023-04-13 01:48:26 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:48:26 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:48:26 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:48:26 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:51:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:51:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 207 ms
+2023-04-13 01:51:50 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:51:50 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:51:50 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:51:50 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:52:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:52:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 282 ms
+2023-04-13 01:52:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:52:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:52:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:52:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:53:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:53:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 253 ms
+2023-04-13 01:53:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:53:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:53:33 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:53:33 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:54:47 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:54:47 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 254 ms
+2023-04-13 01:54:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:54:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 01:54:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:54:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:55:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:55:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 231 ms
+2023-04-13 01:55:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:55:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:55:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:55:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:57:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:57:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 418 ms
+2023-04-13 01:57:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:57:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:57:33 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:57:33 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:57:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:57:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 202 ms
+2023-04-13 01:57:56 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:57:56 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 01:57:56 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 01:57:56 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 02:00:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:00:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 239 ms
+2023-04-13 02:00:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:00:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:00:04 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:00:04 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:02:10 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:02:10 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 229 ms
+2023-04-13 02:02:11 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:02:11 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:02:11 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:02:11 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:03:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:03:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 264 ms
+2023-04-13 02:03:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:03:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:03:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:03:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 02:05:00 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:05:00 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 228 ms
+2023-04-13 02:05:00 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:05:00 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:05:01 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:05:01 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:05:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:05:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 240 ms
+2023-04-13 02:05:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:05:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:05:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:05:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:07:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:07:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 240 ms
+2023-04-13 02:07:56 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:07:56 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:07:56 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:07:56 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:09:08 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:09:08 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 200 ms
+2023-04-13 02:09:08 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:09:08 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:09:09 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:09:09 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:12:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:12:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 288 ms
+2023-04-13 02:12:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:12:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:12:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:12:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:12:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:12:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 260 ms
+2023-04-13 02:12:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:12:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:12:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:12:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:14:19 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:14:19 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 298 ms
+2023-04-13 02:14:20 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:14:20 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 02:14:20 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:14:20 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:15:56 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:15:56 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 257 ms
+2023-04-13 02:15:57 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:15:57 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:15:57 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:15:57 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 02:17:22 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:17:22 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 263 ms
+2023-04-13 02:17:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:17:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:17:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:17:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:17:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:17:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 256 ms
+2023-04-13 02:17:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:17:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 02:17:56 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:17:56 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:18:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:18:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 235 ms
+2023-04-13 02:18:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:18:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:18:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:18:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:19:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:19:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 235 ms
+2023-04-13 02:19:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:19:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:19:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:19:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:24:21 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:24:21 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 235 ms
+2023-04-13 02:24:21 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:24:21 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 02:24:22 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 02:24:22 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 02:28:06 [JavaFX Application Thread] INFO  c.z.j.f.p.g.SearchBox - 选中值（国家/地区）： KR
+2023-04-13 02:28:09 [JavaFX Application Thread] INFO  c.z.j.f.p.g.SearchBox - 选中值（国家/地区）： US
+2023-04-13 03:08:10 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:08:10 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 465 ms
+2023-04-13 03:08:11 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:08:11 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:08:11 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:08:11 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:08:31 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:08:31 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 224 ms
+2023-04-13 03:08:31 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:08:31 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:08:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:08:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:09:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:09:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 258 ms
+2023-04-13 03:09:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:09:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:09:36 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:09:36 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 03:10:11 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:10:11 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 225 ms
+2023-04-13 03:10:11 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:10:11 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:10:12 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:10:12 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:12:02 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:12:02 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 257 ms
+2023-04-13 03:12:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:12:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 03:12:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:12:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 03:12:20 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:12:20 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 256 ms
+2023-04-13 03:12:21 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:12:21 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:12:21 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:12:21 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:14:18 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:14:18 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 245 ms
+2023-04-13 03:14:19 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:14:19 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:14:19 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:14:19 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:27:45 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:27:45 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 443 ms
+2023-04-13 03:27:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:27:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:27:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:27:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:27:51 [JavaFX Application Thread] INFO  c.z.j.f.p.g.SearchBox - 切换按钮：选择状态
+2023-04-13 03:27:51 [JavaFX Application Thread] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 34140@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 03:27:51 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-13 03:27:51 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-13 03:27:51 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-13 03:27:51 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-13 03:27:51 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-13 03:27:51 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-13 03:27:51 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-13 03:27:51 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-13 03:27:51 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-13 03:27:51 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-13 03:27:51 [JavaFX Application Thread] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@2a0ffd46(success), AbstractBootstrap$PendingRegistrationPromise@23472f9d(success), AbstractBootstrap$PendingRegistrationPromise@302e6c5f(success), AbstractBootstrap$PendingRegistrationPromise@3d33bbdf(success), AbstractBootstrap$PendingRegistrationPromise@680394f2(success), AbstractBootstrap$PendingRegistrationPromise@722275a8(success), AbstractBootstrap$PendingRegistrationPromise@31adb327(success), AbstractBootstrap$PendingRegistrationPromise@11e01b8e(success), AbstractBootstrap$PendingRegistrationPromise@65b0a944(success), AbstractBootstrap$PendingRegistrationPromise@4de1f6f(success)]
+2023-04-13 03:29:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:29:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 225 ms
+2023-04-13 03:29:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:29:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 03:29:50 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:29:50 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:29:54 [JavaFX Application Thread] INFO  c.z.j.f.p.g.SearchBox - 切换按钮：选择状态
+2023-04-13 03:29:54 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 34332@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 03:29:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-13 03:29:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-13 03:29:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-13 03:29:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-13 03:29:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-13 03:29:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-13 03:29:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-13 03:29:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-13 03:29:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-13 03:29:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-13 03:29:54 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@12c78e41(success), AbstractBootstrap$PendingRegistrationPromise@66b781b4(success), AbstractBootstrap$PendingRegistrationPromise@30a9001e(success), AbstractBootstrap$PendingRegistrationPromise@9314bff(success), AbstractBootstrap$PendingRegistrationPromise@272a691e(success), AbstractBootstrap$PendingRegistrationPromise@7dcaf66e(success), AbstractBootstrap$PendingRegistrationPromise@51ba039(success), AbstractBootstrap$PendingRegistrationPromise@6767dd6(success), AbstractBootstrap$PendingRegistrationPromise@7260869f(success), AbstractBootstrap$PendingRegistrationPromise@5833773b(success)]
+2023-04-13 03:36:08 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:36:08 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 265 ms
+2023-04-13 03:36:09 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:36:09 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:36:09 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:36:09 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 03:36:28 [JavaFX Application Thread] INFO  c.z.j.f.p.g.SearchBox - 切换按钮：选择状态： true
+2023-04-13 03:36:28 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 5040@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 03:36:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-13 03:36:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-13 03:36:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-13 03:36:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-13 03:36:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-13 03:36:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-13 03:36:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-13 03:36:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-13 03:36:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-13 03:36:28 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@632c1704(success), AbstractBootstrap$PendingRegistrationPromise@484b18bd(success), AbstractBootstrap$PendingRegistrationPromise@751e5f73(success), AbstractBootstrap$PendingRegistrationPromise@44c9cb20(success), AbstractBootstrap$PendingRegistrationPromise@475e608a(success), AbstractBootstrap$PendingRegistrationPromise@57c0162c(success), AbstractBootstrap$PendingRegistrationPromise@50223e60(success), AbstractBootstrap$PendingRegistrationPromise@5ab86f8f(success), AbstractBootstrap$PendingRegistrationPromise@6e560e62(success), AbstractBootstrap$PendingRegistrationPromise@397014f2(success)]
+2023-04-13 03:36:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-13 03:37:24 [JavaFX Application Thread] INFO  c.z.j.f.p.g.SearchBox - 切换按钮：选择状态： false
+2023-04-13 03:37:49 [JavaFX Application Thread] INFO  c.z.j.f.p.g.SearchBox - 切换按钮：选择状态： true
+2023-04-13 03:37:49 [Thread-6] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 5040@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 03:39:52 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:39:52 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 341 ms
+2023-04-13 03:39:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:39:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:39:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:39:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:40:00 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 24840@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 03:40:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-13 03:40:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-13 03:40:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-13 03:40:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-13 03:40:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-13 03:40:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-13 03:40:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-13 03:40:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-13 03:40:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-13 03:40:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-13 03:40:00 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@1eb94706(success), AbstractBootstrap$PendingRegistrationPromise@22e67f94(success), AbstractBootstrap$PendingRegistrationPromise@5255ec5c(success), AbstractBootstrap$PendingRegistrationPromise@b68a45c(success), AbstractBootstrap$PendingRegistrationPromise@5fbd4340(success), AbstractBootstrap$PendingRegistrationPromise@4eb69dfc(success), AbstractBootstrap$PendingRegistrationPromise@337cbf7a(success), AbstractBootstrap$PendingRegistrationPromise@7df8b70d(success), AbstractBootstrap$PendingRegistrationPromise@486a4cb1(success), AbstractBootstrap$PendingRegistrationPromise@3249713d(success)]
+2023-04-13 03:40:02 [Thread-6] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 24840@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 03:40:31 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:40:31 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 233 ms
+2023-04-13 03:40:31 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:40:31 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:40:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:40:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:40:37 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 11364@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 03:40:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-13 03:40:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-13 03:40:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-13 03:40:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-13 03:40:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-13 03:40:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-13 03:40:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-13 03:40:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-13 03:40:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-13 03:40:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-13 03:40:37 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@632c1704(success), AbstractBootstrap$PendingRegistrationPromise@484b18bd(success), AbstractBootstrap$PendingRegistrationPromise@751e5f73(success), AbstractBootstrap$PendingRegistrationPromise@44c9cb20(success), AbstractBootstrap$PendingRegistrationPromise@475e608a(success), AbstractBootstrap$PendingRegistrationPromise@57c0162c(success), AbstractBootstrap$PendingRegistrationPromise@50223e60(success), AbstractBootstrap$PendingRegistrationPromise@5ab86f8f(success), AbstractBootstrap$PendingRegistrationPromise@6e560e62(success), AbstractBootstrap$PendingRegistrationPromise@397014f2(success)]
+2023-04-13 03:40:39 [Thread-6] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 11364@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 03:57:00 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:57:00 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 397 ms
+2023-04-13 03:57:01 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:57:01 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:57:01 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:57:01 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:59:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:59:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 234 ms
+2023-04-13 03:59:56 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:59:56 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 03:59:56 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 03:59:56 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 04:00:00 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 844@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 04:00:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-13 04:00:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-13 04:00:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-13 04:00:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-13 04:00:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-13 04:00:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-13 04:00:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-13 04:00:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-13 04:00:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-13 04:00:00 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@d6e1da5(success), AbstractBootstrap$PendingRegistrationPromise@53f6b6eb(success), AbstractBootstrap$PendingRegistrationPromise@5ddd7fd5(success), AbstractBootstrap$PendingRegistrationPromise@337e2fed(success), AbstractBootstrap$PendingRegistrationPromise@4e009f12(success), AbstractBootstrap$PendingRegistrationPromise@28a729d7(success), AbstractBootstrap$PendingRegistrationPromise@1eb2d8c1(success), AbstractBootstrap$PendingRegistrationPromise@5c719dbd(success), AbstractBootstrap$PendingRegistrationPromise@1643712e(success), AbstractBootstrap$PendingRegistrationPromise@7bb0ba0(success)]
+2023-04-13 04:00:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-13 04:00:05 [Thread-6] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 844@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 04:00:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 04:00:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 252 ms
+2023-04-13 04:00:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 04:00:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 04:00:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 04:00:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 04:00:46 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 34120@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 04:00:46 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-13 04:00:46 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-13 04:00:46 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-13 04:00:46 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-13 04:00:46 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-13 04:00:46 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-13 04:00:46 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-13 04:00:46 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-13 04:00:46 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-13 04:00:46 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-13 04:00:46 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@202fe00a(success), AbstractBootstrap$PendingRegistrationPromise@31c45fad(success), AbstractBootstrap$PendingRegistrationPromise@5fb98555(success), AbstractBootstrap$PendingRegistrationPromise@1b12fa56(success), AbstractBootstrap$PendingRegistrationPromise@4462668e(success), AbstractBootstrap$PendingRegistrationPromise@57c86098(success), AbstractBootstrap$PendingRegistrationPromise@44c8c419(success), AbstractBootstrap$PendingRegistrationPromise@4884469c(success), AbstractBootstrap$PendingRegistrationPromise@1f851f14(success), AbstractBootstrap$PendingRegistrationPromise@bdd60dc(success)]
+2023-04-13 04:00:48 [Thread-6] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 34120@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 04:01:08 [Thread-7] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 34120@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 04:15:05 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 04:15:05 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 242 ms
+2023-04-13 04:15:06 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 04:15:06 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 04:15:06 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 04:15:06 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 04:15:12 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 15620@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 04:15:12 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-13 04:15:12 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-13 04:15:12 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-13 04:15:12 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-13 04:15:12 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-13 04:15:12 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-13 04:15:12 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-13 04:15:12 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-13 04:15:12 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-13 04:15:12 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-13 04:15:12 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@3899b1b6(success), AbstractBootstrap$PendingRegistrationPromise@3fea11b3(success), AbstractBootstrap$PendingRegistrationPromise@7ffb71c1(success), AbstractBootstrap$PendingRegistrationPromise@1f89ea5d(success), AbstractBootstrap$PendingRegistrationPromise@6a68fc1b(success), AbstractBootstrap$PendingRegistrationPromise@5600f6c(success), AbstractBootstrap$PendingRegistrationPromise@21311378(success), AbstractBootstrap$PendingRegistrationPromise@71bade01(success), AbstractBootstrap$PendingRegistrationPromise@5c9f6c09(success), AbstractBootstrap$PendingRegistrationPromise@59011399(success)]
+2023-04-13 04:15:14 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@3899b1b6(success), AbstractBootstrap$PendingRegistrationPromise@3fea11b3(success), AbstractBootstrap$PendingRegistrationPromise@7ffb71c1(success), AbstractBootstrap$PendingRegistrationPromise@1f89ea5d(success), AbstractBootstrap$PendingRegistrationPromise@6a68fc1b(success), AbstractBootstrap$PendingRegistrationPromise@5600f6c(success), AbstractBootstrap$PendingRegistrationPromise@21311378(success), AbstractBootstrap$PendingRegistrationPromise@71bade01(success), AbstractBootstrap$PendingRegistrationPromise@5c9f6c09(success), AbstractBootstrap$PendingRegistrationPromise@59011399(success)]
+2023-04-13 04:15:14 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@3899b1b6(success), AbstractBootstrap$PendingRegistrationPromise@3fea11b3(success), AbstractBootstrap$PendingRegistrationPromise@7ffb71c1(success), AbstractBootstrap$PendingRegistrationPromise@1f89ea5d(success), AbstractBootstrap$PendingRegistrationPromise@6a68fc1b(success), AbstractBootstrap$PendingRegistrationPromise@5600f6c(success), AbstractBootstrap$PendingRegistrationPromise@21311378(success), AbstractBootstrap$PendingRegistrationPromise@71bade01(success), AbstractBootstrap$PendingRegistrationPromise@5c9f6c09(success), AbstractBootstrap$PendingRegistrationPromise@59011399(success)]
+2023-04-13 04:15:14 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@3899b1b6(success), AbstractBootstrap$PendingRegistrationPromise@3fea11b3(success), AbstractBootstrap$PendingRegistrationPromise@7ffb71c1(success), AbstractBootstrap$PendingRegistrationPromise@1f89ea5d(success), AbstractBootstrap$PendingRegistrationPromise@6a68fc1b(success), AbstractBootstrap$PendingRegistrationPromise@5600f6c(success), AbstractBootstrap$PendingRegistrationPromise@21311378(success), AbstractBootstrap$PendingRegistrationPromise@71bade01(success), AbstractBootstrap$PendingRegistrationPromise@5c9f6c09(success), AbstractBootstrap$PendingRegistrationPromise@59011399(success)]
+2023-04-13 04:15:14 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@3899b1b6(success), AbstractBootstrap$PendingRegistrationPromise@3fea11b3(success), AbstractBootstrap$PendingRegistrationPromise@7ffb71c1(success), AbstractBootstrap$PendingRegistrationPromise@1f89ea5d(success), AbstractBootstrap$PendingRegistrationPromise@6a68fc1b(success), AbstractBootstrap$PendingRegistrationPromise@5600f6c(success), AbstractBootstrap$PendingRegistrationPromise@21311378(success), AbstractBootstrap$PendingRegistrationPromise@71bade01(success), AbstractBootstrap$PendingRegistrationPromise@5c9f6c09(success), AbstractBootstrap$PendingRegistrationPromise@59011399(success)]
+2023-04-13 04:15:14 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@3899b1b6(success), AbstractBootstrap$PendingRegistrationPromise@3fea11b3(success), AbstractBootstrap$PendingRegistrationPromise@7ffb71c1(success), AbstractBootstrap$PendingRegistrationPromise@1f89ea5d(success), AbstractBootstrap$PendingRegistrationPromise@6a68fc1b(success), AbstractBootstrap$PendingRegistrationPromise@5600f6c(success), AbstractBootstrap$PendingRegistrationPromise@21311378(success), AbstractBootstrap$PendingRegistrationPromise@71bade01(success), AbstractBootstrap$PendingRegistrationPromise@5c9f6c09(success), AbstractBootstrap$PendingRegistrationPromise@59011399(success)]
+2023-04-13 04:15:14 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@3899b1b6(success), AbstractBootstrap$PendingRegistrationPromise@3fea11b3(success), AbstractBootstrap$PendingRegistrationPromise@7ffb71c1(success), AbstractBootstrap$PendingRegistrationPromise@1f89ea5d(success), AbstractBootstrap$PendingRegistrationPromise@6a68fc1b(success), AbstractBootstrap$PendingRegistrationPromise@5600f6c(success), AbstractBootstrap$PendingRegistrationPromise@21311378(success), AbstractBootstrap$PendingRegistrationPromise@71bade01(success), AbstractBootstrap$PendingRegistrationPromise@5c9f6c09(success), AbstractBootstrap$PendingRegistrationPromise@59011399(success)]
+2023-04-13 04:15:14 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@3899b1b6(success), AbstractBootstrap$PendingRegistrationPromise@3fea11b3(success), AbstractBootstrap$PendingRegistrationPromise@7ffb71c1(success), AbstractBootstrap$PendingRegistrationPromise@1f89ea5d(success), AbstractBootstrap$PendingRegistrationPromise@6a68fc1b(success), AbstractBootstrap$PendingRegistrationPromise@5600f6c(success), AbstractBootstrap$PendingRegistrationPromise@21311378(success), AbstractBootstrap$PendingRegistrationPromise@71bade01(success), AbstractBootstrap$PendingRegistrationPromise@5c9f6c09(success), AbstractBootstrap$PendingRegistrationPromise@59011399(success)]
+2023-04-13 04:15:14 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@3899b1b6(success), AbstractBootstrap$PendingRegistrationPromise@3fea11b3(success), AbstractBootstrap$PendingRegistrationPromise@7ffb71c1(success), AbstractBootstrap$PendingRegistrationPromise@1f89ea5d(success), AbstractBootstrap$PendingRegistrationPromise@6a68fc1b(success), AbstractBootstrap$PendingRegistrationPromise@5600f6c(success), AbstractBootstrap$PendingRegistrationPromise@21311378(success), AbstractBootstrap$PendingRegistrationPromise@71bade01(success), AbstractBootstrap$PendingRegistrationPromise@5c9f6c09(success), AbstractBootstrap$PendingRegistrationPromise@59011399(success)]
+2023-04-13 04:15:14 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@3899b1b6(success), AbstractBootstrap$PendingRegistrationPromise@3fea11b3(success), AbstractBootstrap$PendingRegistrationPromise@7ffb71c1(success), AbstractBootstrap$PendingRegistrationPromise@1f89ea5d(success), AbstractBootstrap$PendingRegistrationPromise@6a68fc1b(success), AbstractBootstrap$PendingRegistrationPromise@5600f6c(success), AbstractBootstrap$PendingRegistrationPromise@21311378(success), AbstractBootstrap$PendingRegistrationPromise@71bade01(success), AbstractBootstrap$PendingRegistrationPromise@5c9f6c09(success), AbstractBootstrap$PendingRegistrationPromise@59011399(success)]
+2023-04-13 04:16:27 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 04:16:27 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 257 ms
+2023-04-13 04:16:28 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 04:16:28 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 04:16:28 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 04:16:28 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 04:16:34 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 13572@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 04:16:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-13 04:16:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-13 04:16:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-13 04:16:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-13 04:16:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-13 04:16:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-13 04:16:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-13 04:16:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-13 04:16:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-13 04:16:34 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@2173e719(success), AbstractBootstrap$PendingRegistrationPromise@2c0cfdd0(success), AbstractBootstrap$PendingRegistrationPromise@4afd1baa(success), AbstractBootstrap$PendingRegistrationPromise@61bf3152(success), AbstractBootstrap$PendingRegistrationPromise@5fca4953(success), AbstractBootstrap$PendingRegistrationPromise@1463cd07(success), AbstractBootstrap$PendingRegistrationPromise@3661b46a(success), AbstractBootstrap$PendingRegistrationPromise@2e4c3655(success), AbstractBootstrap$PendingRegistrationPromise@2341721e(success), AbstractBootstrap$PendingRegistrationPromise@29c08884(success)]
+2023-04-13 04:16:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-13 04:16:37 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@2173e719(success), AbstractBootstrap$PendingRegistrationPromise@2c0cfdd0(success), AbstractBootstrap$PendingRegistrationPromise@4afd1baa(success), AbstractBootstrap$PendingRegistrationPromise@61bf3152(success), AbstractBootstrap$PendingRegistrationPromise@5fca4953(success), AbstractBootstrap$PendingRegistrationPromise@1463cd07(success), AbstractBootstrap$PendingRegistrationPromise@3661b46a(success), AbstractBootstrap$PendingRegistrationPromise@2e4c3655(success), AbstractBootstrap$PendingRegistrationPromise@2341721e(success), AbstractBootstrap$PendingRegistrationPromise@29c08884(success)]
+2023-04-13 04:16:37 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@2173e719(success), AbstractBootstrap$PendingRegistrationPromise@2c0cfdd0(success), AbstractBootstrap$PendingRegistrationPromise@4afd1baa(success), AbstractBootstrap$PendingRegistrationPromise@61bf3152(success), AbstractBootstrap$PendingRegistrationPromise@5fca4953(success), AbstractBootstrap$PendingRegistrationPromise@1463cd07(success), AbstractBootstrap$PendingRegistrationPromise@3661b46a(success), AbstractBootstrap$PendingRegistrationPromise@2e4c3655(success), AbstractBootstrap$PendingRegistrationPromise@2341721e(success), AbstractBootstrap$PendingRegistrationPromise@29c08884(success)]
+2023-04-13 04:16:37 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@2173e719(success), AbstractBootstrap$PendingRegistrationPromise@2c0cfdd0(success), AbstractBootstrap$PendingRegistrationPromise@4afd1baa(success), AbstractBootstrap$PendingRegistrationPromise@61bf3152(success), AbstractBootstrap$PendingRegistrationPromise@5fca4953(success), AbstractBootstrap$PendingRegistrationPromise@1463cd07(success), AbstractBootstrap$PendingRegistrationPromise@3661b46a(success), AbstractBootstrap$PendingRegistrationPromise@2e4c3655(success), AbstractBootstrap$PendingRegistrationPromise@2341721e(success), AbstractBootstrap$PendingRegistrationPromise@29c08884(success)]
+2023-04-13 04:16:37 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@2173e719(success), AbstractBootstrap$PendingRegistrationPromise@2c0cfdd0(success), AbstractBootstrap$PendingRegistrationPromise@4afd1baa(success), AbstractBootstrap$PendingRegistrationPromise@61bf3152(success), AbstractBootstrap$PendingRegistrationPromise@5fca4953(success), AbstractBootstrap$PendingRegistrationPromise@1463cd07(success), AbstractBootstrap$PendingRegistrationPromise@3661b46a(success), AbstractBootstrap$PendingRegistrationPromise@2e4c3655(success), AbstractBootstrap$PendingRegistrationPromise@2341721e(success), AbstractBootstrap$PendingRegistrationPromise@29c08884(success)]
+2023-04-13 04:16:37 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@2173e719(success), AbstractBootstrap$PendingRegistrationPromise@2c0cfdd0(success), AbstractBootstrap$PendingRegistrationPromise@4afd1baa(success), AbstractBootstrap$PendingRegistrationPromise@61bf3152(success), AbstractBootstrap$PendingRegistrationPromise@5fca4953(success), AbstractBootstrap$PendingRegistrationPromise@1463cd07(success), AbstractBootstrap$PendingRegistrationPromise@3661b46a(success), AbstractBootstrap$PendingRegistrationPromise@2e4c3655(success), AbstractBootstrap$PendingRegistrationPromise@2341721e(success), AbstractBootstrap$PendingRegistrationPromise@29c08884(success)]
+2023-04-13 04:16:37 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@2173e719(success), AbstractBootstrap$PendingRegistrationPromise@2c0cfdd0(success), AbstractBootstrap$PendingRegistrationPromise@4afd1baa(success), AbstractBootstrap$PendingRegistrationPromise@61bf3152(success), AbstractBootstrap$PendingRegistrationPromise@5fca4953(success), AbstractBootstrap$PendingRegistrationPromise@1463cd07(success), AbstractBootstrap$PendingRegistrationPromise@3661b46a(success), AbstractBootstrap$PendingRegistrationPromise@2e4c3655(success), AbstractBootstrap$PendingRegistrationPromise@2341721e(success), AbstractBootstrap$PendingRegistrationPromise@29c08884(success)]
+2023-04-13 04:16:37 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@2173e719(success), AbstractBootstrap$PendingRegistrationPromise@2c0cfdd0(success), AbstractBootstrap$PendingRegistrationPromise@4afd1baa(success), AbstractBootstrap$PendingRegistrationPromise@61bf3152(success), AbstractBootstrap$PendingRegistrationPromise@5fca4953(success), AbstractBootstrap$PendingRegistrationPromise@1463cd07(success), AbstractBootstrap$PendingRegistrationPromise@3661b46a(success), AbstractBootstrap$PendingRegistrationPromise@2e4c3655(success), AbstractBootstrap$PendingRegistrationPromise@2341721e(success), AbstractBootstrap$PendingRegistrationPromise@29c08884(success)]
+2023-04-13 04:16:37 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@2173e719(success), AbstractBootstrap$PendingRegistrationPromise@2c0cfdd0(success), AbstractBootstrap$PendingRegistrationPromise@4afd1baa(success), AbstractBootstrap$PendingRegistrationPromise@61bf3152(success), AbstractBootstrap$PendingRegistrationPromise@5fca4953(success), AbstractBootstrap$PendingRegistrationPromise@1463cd07(success), AbstractBootstrap$PendingRegistrationPromise@3661b46a(success), AbstractBootstrap$PendingRegistrationPromise@2e4c3655(success), AbstractBootstrap$PendingRegistrationPromise@2341721e(success), AbstractBootstrap$PendingRegistrationPromise@29c08884(success)]
+2023-04-13 04:16:37 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@2173e719(success), AbstractBootstrap$PendingRegistrationPromise@2c0cfdd0(success), AbstractBootstrap$PendingRegistrationPromise@4afd1baa(success), AbstractBootstrap$PendingRegistrationPromise@61bf3152(success), AbstractBootstrap$PendingRegistrationPromise@5fca4953(success), AbstractBootstrap$PendingRegistrationPromise@1463cd07(success), AbstractBootstrap$PendingRegistrationPromise@3661b46a(success), AbstractBootstrap$PendingRegistrationPromise@2e4c3655(success), AbstractBootstrap$PendingRegistrationPromise@2341721e(success), AbstractBootstrap$PendingRegistrationPromise@29c08884(success)]
+2023-04-13 04:17:07 [Thread-6] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 13572@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 04:17:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-13 04:17:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-13 04:17:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-13 04:17:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-13 04:17:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-13 04:17:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-13 04:17:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-13 04:17:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-13 04:17:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-13 04:17:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-13 04:17:07 [Thread-6] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@1bfa2d75(success), AbstractBootstrap$PendingRegistrationPromise@15b42c93(success), AbstractBootstrap$PendingRegistrationPromise@5e535645(success), AbstractBootstrap$PendingRegistrationPromise@6668be0e(success), AbstractBootstrap$PendingRegistrationPromise@2c33a633(success), AbstractBootstrap$PendingRegistrationPromise@1857d792(success), AbstractBootstrap$PendingRegistrationPromise@5cf24ba3(success), AbstractBootstrap$PendingRegistrationPromise@7f4916fd(success), AbstractBootstrap$PendingRegistrationPromise@4e7a2519(success), AbstractBootstrap$PendingRegistrationPromise@68378003(success)]
+2023-04-13 04:17:21 [Thread-6] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@1bfa2d75(success), AbstractBootstrap$PendingRegistrationPromise@15b42c93(success), AbstractBootstrap$PendingRegistrationPromise@5e535645(success), AbstractBootstrap$PendingRegistrationPromise@6668be0e(success), AbstractBootstrap$PendingRegistrationPromise@2c33a633(success), AbstractBootstrap$PendingRegistrationPromise@1857d792(success), AbstractBootstrap$PendingRegistrationPromise@5cf24ba3(success), AbstractBootstrap$PendingRegistrationPromise@7f4916fd(success), AbstractBootstrap$PendingRegistrationPromise@4e7a2519(success), AbstractBootstrap$PendingRegistrationPromise@68378003(success)]
+2023-04-13 04:17:21 [Thread-6] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@1bfa2d75(success), AbstractBootstrap$PendingRegistrationPromise@15b42c93(success), AbstractBootstrap$PendingRegistrationPromise@5e535645(success), AbstractBootstrap$PendingRegistrationPromise@6668be0e(success), AbstractBootstrap$PendingRegistrationPromise@2c33a633(success), AbstractBootstrap$PendingRegistrationPromise@1857d792(success), AbstractBootstrap$PendingRegistrationPromise@5cf24ba3(success), AbstractBootstrap$PendingRegistrationPromise@7f4916fd(success), AbstractBootstrap$PendingRegistrationPromise@4e7a2519(success), AbstractBootstrap$PendingRegistrationPromise@68378003(success)]
+2023-04-13 04:17:21 [Thread-6] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@1bfa2d75(success), AbstractBootstrap$PendingRegistrationPromise@15b42c93(success), AbstractBootstrap$PendingRegistrationPromise@5e535645(success), AbstractBootstrap$PendingRegistrationPromise@6668be0e(success), AbstractBootstrap$PendingRegistrationPromise@2c33a633(success), AbstractBootstrap$PendingRegistrationPromise@1857d792(success), AbstractBootstrap$PendingRegistrationPromise@5cf24ba3(success), AbstractBootstrap$PendingRegistrationPromise@7f4916fd(success), AbstractBootstrap$PendingRegistrationPromise@4e7a2519(success), AbstractBootstrap$PendingRegistrationPromise@68378003(success)]
+2023-04-13 04:17:21 [Thread-6] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@1bfa2d75(success), AbstractBootstrap$PendingRegistrationPromise@15b42c93(success), AbstractBootstrap$PendingRegistrationPromise@5e535645(success), AbstractBootstrap$PendingRegistrationPromise@6668be0e(success), AbstractBootstrap$PendingRegistrationPromise@2c33a633(success), AbstractBootstrap$PendingRegistrationPromise@1857d792(success), AbstractBootstrap$PendingRegistrationPromise@5cf24ba3(success), AbstractBootstrap$PendingRegistrationPromise@7f4916fd(success), AbstractBootstrap$PendingRegistrationPromise@4e7a2519(success), AbstractBootstrap$PendingRegistrationPromise@68378003(success)]
+2023-04-13 04:17:21 [Thread-6] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@1bfa2d75(success), AbstractBootstrap$PendingRegistrationPromise@15b42c93(success), AbstractBootstrap$PendingRegistrationPromise@5e535645(success), AbstractBootstrap$PendingRegistrationPromise@6668be0e(success), AbstractBootstrap$PendingRegistrationPromise@2c33a633(success), AbstractBootstrap$PendingRegistrationPromise@1857d792(success), AbstractBootstrap$PendingRegistrationPromise@5cf24ba3(success), AbstractBootstrap$PendingRegistrationPromise@7f4916fd(success), AbstractBootstrap$PendingRegistrationPromise@4e7a2519(success), AbstractBootstrap$PendingRegistrationPromise@68378003(success)]
+2023-04-13 04:17:21 [Thread-6] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@1bfa2d75(success), AbstractBootstrap$PendingRegistrationPromise@15b42c93(success), AbstractBootstrap$PendingRegistrationPromise@5e535645(success), AbstractBootstrap$PendingRegistrationPromise@6668be0e(success), AbstractBootstrap$PendingRegistrationPromise@2c33a633(success), AbstractBootstrap$PendingRegistrationPromise@1857d792(success), AbstractBootstrap$PendingRegistrationPromise@5cf24ba3(success), AbstractBootstrap$PendingRegistrationPromise@7f4916fd(success), AbstractBootstrap$PendingRegistrationPromise@4e7a2519(success), AbstractBootstrap$PendingRegistrationPromise@68378003(success)]
+2023-04-13 04:17:21 [Thread-6] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@1bfa2d75(success), AbstractBootstrap$PendingRegistrationPromise@15b42c93(success), AbstractBootstrap$PendingRegistrationPromise@5e535645(success), AbstractBootstrap$PendingRegistrationPromise@6668be0e(success), AbstractBootstrap$PendingRegistrationPromise@2c33a633(success), AbstractBootstrap$PendingRegistrationPromise@1857d792(success), AbstractBootstrap$PendingRegistrationPromise@5cf24ba3(success), AbstractBootstrap$PendingRegistrationPromise@7f4916fd(success), AbstractBootstrap$PendingRegistrationPromise@4e7a2519(success), AbstractBootstrap$PendingRegistrationPromise@68378003(success)]
+2023-04-13 04:17:21 [Thread-6] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@1bfa2d75(success), AbstractBootstrap$PendingRegistrationPromise@15b42c93(success), AbstractBootstrap$PendingRegistrationPromise@5e535645(success), AbstractBootstrap$PendingRegistrationPromise@6668be0e(success), AbstractBootstrap$PendingRegistrationPromise@2c33a633(success), AbstractBootstrap$PendingRegistrationPromise@1857d792(success), AbstractBootstrap$PendingRegistrationPromise@5cf24ba3(success), AbstractBootstrap$PendingRegistrationPromise@7f4916fd(success), AbstractBootstrap$PendingRegistrationPromise@4e7a2519(success), AbstractBootstrap$PendingRegistrationPromise@68378003(success)]
+2023-04-13 04:17:21 [Thread-6] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@1bfa2d75(success), AbstractBootstrap$PendingRegistrationPromise@15b42c93(success), AbstractBootstrap$PendingRegistrationPromise@5e535645(success), AbstractBootstrap$PendingRegistrationPromise@6668be0e(success), AbstractBootstrap$PendingRegistrationPromise@2c33a633(success), AbstractBootstrap$PendingRegistrationPromise@1857d792(success), AbstractBootstrap$PendingRegistrationPromise@5cf24ba3(success), AbstractBootstrap$PendingRegistrationPromise@7f4916fd(success), AbstractBootstrap$PendingRegistrationPromise@4e7a2519(success), AbstractBootstrap$PendingRegistrationPromise@68378003(success)]
+2023-04-13 04:28:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 04:28:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 208 ms
+2023-04-13 04:28:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 04:28:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 04:28:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 04:28:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 04:28:42 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 13004@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 04:28:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-13 04:28:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-13 04:28:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-13 04:28:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-13 04:28:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-13 04:28:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-13 04:28:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-13 04:28:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-13 04:28:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-13 04:28:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-13 04:28:42 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@31ce798d(success), AbstractBootstrap$PendingRegistrationPromise@53f2552(success), AbstractBootstrap$PendingRegistrationPromise@6bcb69d5(success), AbstractBootstrap$PendingRegistrationPromise@224f2dfc(success), AbstractBootstrap$PendingRegistrationPromise@600f3a29(success), AbstractBootstrap$PendingRegistrationPromise@1c6696cf(success), AbstractBootstrap$PendingRegistrationPromise@2c53d157(success), AbstractBootstrap$PendingRegistrationPromise@772829ec(success), AbstractBootstrap$PendingRegistrationPromise@6eef9b52(success), AbstractBootstrap$PendingRegistrationPromise@4617b8ae(success)]
+2023-04-13 04:28:44 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@31ce798d(success), AbstractBootstrap$PendingRegistrationPromise@53f2552(success), AbstractBootstrap$PendingRegistrationPromise@6bcb69d5(success), AbstractBootstrap$PendingRegistrationPromise@224f2dfc(success), AbstractBootstrap$PendingRegistrationPromise@600f3a29(success), AbstractBootstrap$PendingRegistrationPromise@1c6696cf(success), AbstractBootstrap$PendingRegistrationPromise@2c53d157(success), AbstractBootstrap$PendingRegistrationPromise@772829ec(success), AbstractBootstrap$PendingRegistrationPromise@6eef9b52(success), AbstractBootstrap$PendingRegistrationPromise@4617b8ae(success)]
+2023-04-13 04:28:44 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@31ce798d(success), AbstractBootstrap$PendingRegistrationPromise@53f2552(success), AbstractBootstrap$PendingRegistrationPromise@6bcb69d5(success), AbstractBootstrap$PendingRegistrationPromise@224f2dfc(success), AbstractBootstrap$PendingRegistrationPromise@600f3a29(success), AbstractBootstrap$PendingRegistrationPromise@1c6696cf(success), AbstractBootstrap$PendingRegistrationPromise@2c53d157(success), AbstractBootstrap$PendingRegistrationPromise@772829ec(success), AbstractBootstrap$PendingRegistrationPromise@6eef9b52(success), AbstractBootstrap$PendingRegistrationPromise@4617b8ae(success)]
+2023-04-13 04:28:44 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@31ce798d(success), AbstractBootstrap$PendingRegistrationPromise@53f2552(success), AbstractBootstrap$PendingRegistrationPromise@6bcb69d5(success), AbstractBootstrap$PendingRegistrationPromise@224f2dfc(success), AbstractBootstrap$PendingRegistrationPromise@600f3a29(success), AbstractBootstrap$PendingRegistrationPromise@1c6696cf(success), AbstractBootstrap$PendingRegistrationPromise@2c53d157(success), AbstractBootstrap$PendingRegistrationPromise@772829ec(success), AbstractBootstrap$PendingRegistrationPromise@6eef9b52(success), AbstractBootstrap$PendingRegistrationPromise@4617b8ae(success)]
+2023-04-13 04:28:44 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@31ce798d(success), AbstractBootstrap$PendingRegistrationPromise@53f2552(success), AbstractBootstrap$PendingRegistrationPromise@6bcb69d5(success), AbstractBootstrap$PendingRegistrationPromise@224f2dfc(success), AbstractBootstrap$PendingRegistrationPromise@600f3a29(success), AbstractBootstrap$PendingRegistrationPromise@1c6696cf(success), AbstractBootstrap$PendingRegistrationPromise@2c53d157(success), AbstractBootstrap$PendingRegistrationPromise@772829ec(success), AbstractBootstrap$PendingRegistrationPromise@6eef9b52(success), AbstractBootstrap$PendingRegistrationPromise@4617b8ae(success)]
+2023-04-13 04:28:44 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@31ce798d(success), AbstractBootstrap$PendingRegistrationPromise@53f2552(success), AbstractBootstrap$PendingRegistrationPromise@6bcb69d5(success), AbstractBootstrap$PendingRegistrationPromise@224f2dfc(success), AbstractBootstrap$PendingRegistrationPromise@600f3a29(success), AbstractBootstrap$PendingRegistrationPromise@1c6696cf(success), AbstractBootstrap$PendingRegistrationPromise@2c53d157(success), AbstractBootstrap$PendingRegistrationPromise@772829ec(success), AbstractBootstrap$PendingRegistrationPromise@6eef9b52(success), AbstractBootstrap$PendingRegistrationPromise@4617b8ae(success)]
+2023-04-13 04:28:44 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@31ce798d(success), AbstractBootstrap$PendingRegistrationPromise@53f2552(success), AbstractBootstrap$PendingRegistrationPromise@6bcb69d5(success), AbstractBootstrap$PendingRegistrationPromise@224f2dfc(success), AbstractBootstrap$PendingRegistrationPromise@600f3a29(success), AbstractBootstrap$PendingRegistrationPromise@1c6696cf(success), AbstractBootstrap$PendingRegistrationPromise@2c53d157(success), AbstractBootstrap$PendingRegistrationPromise@772829ec(success), AbstractBootstrap$PendingRegistrationPromise@6eef9b52(success), AbstractBootstrap$PendingRegistrationPromise@4617b8ae(success)]
+2023-04-13 04:28:44 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@31ce798d(success), AbstractBootstrap$PendingRegistrationPromise@53f2552(success), AbstractBootstrap$PendingRegistrationPromise@6bcb69d5(success), AbstractBootstrap$PendingRegistrationPromise@224f2dfc(success), AbstractBootstrap$PendingRegistrationPromise@600f3a29(success), AbstractBootstrap$PendingRegistrationPromise@1c6696cf(success), AbstractBootstrap$PendingRegistrationPromise@2c53d157(success), AbstractBootstrap$PendingRegistrationPromise@772829ec(success), AbstractBootstrap$PendingRegistrationPromise@6eef9b52(success), AbstractBootstrap$PendingRegistrationPromise@4617b8ae(success)]
+2023-04-13 04:28:44 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: null
+2023-04-13 04:28:44 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: null
+2023-04-13 23:17:20 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 23:17:20 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 456 ms
+2023-04-13 23:17:21 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 23:17:21 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 23:17:21 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 23:17:21 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 23:17:26 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 6396@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 23:17:26 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-13 23:17:26 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-13 23:17:26 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-13 23:17:26 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-13 23:17:26 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-13 23:17:26 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-13 23:17:26 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-13 23:17:26 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-13 23:17:26 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-13 23:17:26 [Thread-5] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@2173e719(success), AbstractBootstrap$PendingRegistrationPromise@2c0cfdd0(success), AbstractBootstrap$PendingRegistrationPromise@4afd1baa(success), AbstractBootstrap$PendingRegistrationPromise@61bf3152(success), AbstractBootstrap$PendingRegistrationPromise@5fca4953(success), AbstractBootstrap$PendingRegistrationPromise@1463cd07(success), AbstractBootstrap$PendingRegistrationPromise@3661b46a(success), AbstractBootstrap$PendingRegistrationPromise@2e4c3655(success), AbstractBootstrap$PendingRegistrationPromise@2341721e(success), AbstractBootstrap$PendingRegistrationPromise@29c08884(success)]
+2023-04-13 23:17:26 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-13 23:54:19 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 23:54:19 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 230 ms
+2023-04-13 23:54:20 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 23:54:20 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 23:54:20 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 23:54:20 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 23:54:24 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 9248@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 23:54:25 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-13 23:54:25 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-13 23:54:25 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-13 23:54:25 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-13 23:54:25 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-13 23:54:25 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-13 23:54:25 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-13 23:54:25 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-13 23:54:25 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-13 23:54:25 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-13 23:59:07 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 23:59:07 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 458 ms
+2023-04-13 23:59:07 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 23:59:07 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-13 23:59:08 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-13 23:59:08 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-13 23:59:15 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 32720@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-13 23:59:15 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-13 23:59:15 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-13 23:59:15 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-13 23:59:15 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-13 23:59:15 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-13 23:59:15 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-13 23:59:15 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-13 23:59:15 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-13 23:59:15 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-13 23:59:15 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010

@@ -1,0 +1,103 @@
+<configuration scan="true" scanPeriod="50 seconds">
+    <!--抑制logback自己的log-->
+    <statusListener class="ch.qos.logback.core.status.NopStatusListener" />
+
+    <contextName>代理工具</contextName>
+    <property name="appName" value="JProxyTools"/>
+    <property name="logPath" value="logs"/>
+
+    <!--控制台日志-->
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%date{yyyy-MM-dd HH:mm:ss} %highlight(%-5level) [%boldYellow(%thread)] %boldGreen(%logger{1})(%F:%L\)- %highlight(%msg) %n</pattern>
+        </encoder>
+    </appender>
+
+    <!--error级别-->
+    <appender name="FILE-ERROR" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <filter class="ch.qos.logback.classic.filter.LevelFilter">
+            <level>ERROR</level>
+            <onMatch>ACCEPT</onMatch>
+            <onMismatch>DENY</onMismatch>
+        </filter>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${logPath}/${appName}/%d{yyyy-MM-dd,aux}/${appName}-%d{yyyy-MM-dd}-error-%i.log</fileNamePattern>
+            <maxFileSize>10MB</maxFileSize>
+            <maxHistory>15</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{15} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+
+    <!--info级别-->
+    <appender name="FILE-INFO" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <filter class="ch.qos.logback.classic.filter.LevelFilter">
+            <level>INFO</level>
+            <onMatch>ACCEPT</onMatch>
+            <onMismatch>DENY</onMismatch>
+        </filter>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${logPath}/${appName}/%d{yyyy-MM-dd,aux}/${appName}-%d{yyyy-MM-dd}-info-%i.log</fileNamePattern>
+            <maxFileSize>10MB</maxFileSize>
+            <maxHistory>15</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{15} - %msg%n</pattern>
+        </encoder>
+    </appender>
+    <!--debug级别-->
+    <appender name="FILE-DEBUG" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <filter class="ch.qos.logback.classic.filter.LevelFilter">
+            <level>DEBUG</level>
+            <onMatch>ACCEPT</onMatch>
+            <onMismatch>DENY</onMismatch>
+        </filter>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${logPath}/${appName}/%d{yyyy-MM-dd,aux}/${appName}-%d{yyyy-MM-dd}-debug-%i.log</fileNamePattern>
+            <maxFileSize>10MB</maxFileSize>
+            <maxHistory>15</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{15} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- 把日志异步输出到磁盘文件中，避免每次都进行磁盘IO操作 -->
+    <appender name="ASYNC" class="ch.qos.logback.classic.AsyncAppender">
+        <discardingThreshold>0</discardingThreshold>
+        <queueSize>100</queueSize>
+        <appender-ref ref="FILE-DEBUG" />
+        <appender-ref ref="FILE-INFO" />
+        <appender-ref ref="FILE-ERROR" />
+    </appender>
+    <!--需要打印的log的类别 -->
+    <!--这里没有开启的不会记录到logs文件 -->
+
+    <logger name="com.ztoncloud.jproxytools" level="DEBUG" additivity="false">
+        <appender-ref ref="CONSOLE"/>
+        <appender-ref ref="FILE-ERROR"/>
+        <appender-ref ref="FILE-INFO"/>
+        <appender-ref ref="FILE-DEBUG"/>
+    </logger>
+
+    <!--单独包名log控制，调试netty需要改变log级别-->
+
+    <logger name="io.netty" level="ERROR" additivity="false" >
+        <appender-ref ref="CONSOLE"/>
+        <appender-ref ref="FILE-ERROR"/>
+    </logger>
+
+
+
+
+    <!--ROOT log控制级别 如：logger.isDebugEnabled()属性-->
+    <root level="DEBUG" >
+        <appender-ref ref="CONSOLE" />
+        <appender-ref ref="ASYNC" />
+    </root>
+</configuration>

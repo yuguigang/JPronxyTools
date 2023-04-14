@@ -1,0 +1,1326 @@
+2023-04-14 00:01:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:01:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 228 ms
+2023-04-14 00:01:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:01:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 00:01:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:01:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 00:01:39 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 22516@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 00:01:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 00:01:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 00:01:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 00:01:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 00:01:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 00:01:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 00:01:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 00:01:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 00:01:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 00:01:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 00:10:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:10:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 241 ms
+2023-04-14 00:10:18 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:10:18 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 00:10:19 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:10:19 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 00:10:23 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 25556@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 00:10:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 00:10:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 00:10:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 00:10:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 00:10:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 00:10:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 00:10:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 00:10:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 00:10:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 00:10:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 00:11:19 [Thread-6] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 25556@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 00:11:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 00:11:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 00:11:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 00:11:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 00:11:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 00:11:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 00:11:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 00:11:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 00:11:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 00:11:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 00:13:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:13:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 248 ms
+2023-04-14 00:13:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:13:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 00:13:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:13:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 00:13:40 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 24872@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 00:13:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 00:13:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 00:13:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 00:13:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 00:13:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 00:13:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 00:13:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 00:13:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 00:13:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 00:13:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 00:20:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:20:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 542 ms
+2023-04-14 00:20:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:20:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 00:20:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:20:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 00:20:40 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 18524@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 00:20:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 00:20:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 00:20:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 00:20:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 00:20:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 00:20:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 00:20:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 00:20:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 00:20:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 00:20:40 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 00:24:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:24:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 234 ms
+2023-04-14 00:24:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:24:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 00:24:04 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:24:04 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 00:24:08 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 29860@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 00:24:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 00:24:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 00:24:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 00:24:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 00:24:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 00:24:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 00:24:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 00:24:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 00:24:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 00:24:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 00:40:09 [Thread-6] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 29860@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 00:40:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 00:40:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 00:40:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 00:40:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 00:40:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 00:40:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 00:40:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 00:40:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 00:40:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 00:40:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 00:43:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:43:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1289 ms
+2023-04-14 00:43:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:43:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 00:43:44 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:43:44 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 00:43:48 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 29328@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 00:43:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 00:43:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 00:43:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 00:43:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 00:43:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 00:43:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 00:43:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 00:43:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 00:43:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 00:43:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 00:47:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:47:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 286 ms
+2023-04-14 00:47:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:47:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 00:47:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:47:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 00:47:21 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 26840@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 00:47:21 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 00:47:21 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 00:47:21 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 00:47:21 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 00:47:21 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 00:47:21 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 00:47:21 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 00:47:21 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 00:47:21 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 00:47:21 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 00:55:28 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:55:28 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1282 ms
+2023-04-14 00:55:29 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:55:29 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 00:55:29 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 00:55:29 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 00:55:33 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 15324@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 00:55:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 00:55:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 00:55:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 00:55:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 00:55:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 00:55:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 00:55:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 00:55:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 00:55:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 00:55:34 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 01:29:15 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:29:15 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 417 ms
+2023-04-14 01:29:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:29:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 01:29:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:29:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 01:29:20 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 19744@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 01:29:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 01:29:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 01:29:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 01:29:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 01:29:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 01:29:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 01:29:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 01:29:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 01:29:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 01:29:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 01:31:30 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:31:30 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 228 ms
+2023-04-14 01:31:30 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:31:30 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 01:31:31 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:31:31 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 01:31:41 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 32924@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 01:31:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 01:31:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 01:31:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 01:31:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 01:31:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 01:31:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 01:31:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 01:31:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 01:31:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 01:31:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 01:34:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:34:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 230 ms
+2023-04-14 01:34:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:34:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 01:34:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:34:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 01:34:20 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 25616@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 01:34:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 01:34:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 01:34:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 01:34:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 01:34:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 01:34:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 01:34:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 01:34:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 01:34:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 01:34:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 01:42:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:42:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 267 ms
+2023-04-14 01:42:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:42:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 01:42:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:42:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 01:43:00 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 33728@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 01:43:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 01:43:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 01:43:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 01:43:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 01:43:01 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 01:43:01 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 01:43:01 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 01:43:01 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 01:43:01 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 01:43:01 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 01:44:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:44:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 200 ms
+2023-04-14 01:44:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:44:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 01:44:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:44:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 01:44:44 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 33448@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 01:44:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 01:44:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 01:44:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 01:44:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 01:44:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 01:44:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 01:44:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 01:44:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 01:44:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 01:44:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 01:46:09 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:46:09 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 201 ms
+2023-04-14 01:46:10 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:46:10 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 01:46:10 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:46:10 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 01:46:22 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 32740@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 01:46:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 01:46:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 01:46:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 01:46:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 01:46:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 01:46:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 01:46:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 01:46:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 01:46:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 01:46:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 01:57:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:57:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 417 ms
+2023-04-14 01:57:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:57:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 01:57:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 01:57:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 01:57:28 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 30588@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 01:57:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 01:57:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 01:57:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 01:57:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 01:57:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 01:57:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 01:57:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 01:57:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 01:57:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 01:57:28 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 02:10:01 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:10:01 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 253 ms
+2023-04-14 02:10:01 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:10:01 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:10:02 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:10:02 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:10:08 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 26216@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 02:10:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 02:10:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 02:10:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 02:10:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 02:10:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 02:10:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 02:10:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 02:10:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 02:10:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 02:10:08 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 02:12:52 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:12:52 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 230 ms
+2023-04-14 02:12:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:12:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:12:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:12:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 02:12:57 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 30660@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 02:12:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 02:12:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 02:12:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 02:12:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 02:12:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 02:12:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 02:12:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 02:12:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 02:12:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 02:12:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 02:13:47 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:13:47 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 236 ms
+2023-04-14 02:13:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:13:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:13:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:13:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:13:52 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 18084@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 02:13:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 02:13:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 02:13:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 02:13:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 02:13:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 02:13:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 02:13:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 02:13:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 02:13:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 02:13:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 02:20:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:20:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 251 ms
+2023-04-14 02:20:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:20:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 02:20:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:20:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:20:44 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 30152@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 02:20:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 02:20:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 02:20:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 02:20:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 02:20:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 02:20:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 02:20:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 02:20:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 02:20:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 02:20:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 02:22:14 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:22:14 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 239 ms
+2023-04-14 02:22:14 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:22:14 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:22:15 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:22:15 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:22:19 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 35064@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 02:22:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 02:22:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 02:22:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 02:22:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 02:22:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 02:22:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 02:22:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 02:22:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 02:22:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 02:22:19 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 02:28:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:28:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 422 ms
+2023-04-14 02:28:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:28:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:28:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:28:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 02:28:48 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 33244@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 02:28:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 02:28:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 02:28:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 02:28:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 02:28:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 02:28:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 02:28:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 02:28:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 02:28:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 02:28:48 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 02:35:31 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:35:31 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 232 ms
+2023-04-14 02:35:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:35:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 02:35:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:35:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:35:37 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 15560@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 02:35:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 02:35:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 02:35:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 02:35:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 02:35:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 02:35:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 02:35:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 02:35:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 02:35:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 02:35:37 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 02:39:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:39:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 242 ms
+2023-04-14 02:39:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:39:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:39:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:39:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:39:41 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 20628@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 02:39:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 02:39:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 02:39:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 02:39:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 02:39:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 02:39:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 02:39:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 02:39:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 02:39:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 02:39:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 02:39:56 [Thread-6] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 20628@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 02:39:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 02:39:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 02:39:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 02:39:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 02:39:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 02:39:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 02:39:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 02:39:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 02:39:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 02:39:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 02:40:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:40:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 398 ms
+2023-04-14 02:40:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:40:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 02:40:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:40:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:41:07 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 32684@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 02:41:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 02:41:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 02:41:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 02:41:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 02:41:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 02:41:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 02:41:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 02:41:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 02:41:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 02:41:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 02:42:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:42:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 257 ms
+2023-04-14 02:42:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:42:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:42:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:42:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:42:45 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 19952@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 02:42:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 02:42:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 02:42:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 02:42:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 02:42:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 02:42:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 02:42:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 02:42:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 02:42:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 02:42:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 02:45:27 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:45:27 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 260 ms
+2023-04-14 02:45:28 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:45:28 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:45:28 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:45:28 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:45:33 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 32972@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 02:45:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 02:45:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 02:45:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 02:45:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 02:45:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 02:45:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 02:45:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 02:45:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 02:45:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 02:45:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 02:47:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:47:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 279 ms
+2023-04-14 02:47:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:47:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:47:18 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:47:18 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 02:47:29 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 34120@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 02:47:29 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 02:47:29 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 02:47:29 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 02:47:29 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 02:47:29 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 02:47:29 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 02:47:29 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 02:47:29 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 02:47:29 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 02:47:29 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 02:48:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:48:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 235 ms
+2023-04-14 02:48:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:48:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:48:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:48:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:48:44 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 25252@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 02:48:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 02:48:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 02:48:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 02:48:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 02:48:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 02:48:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 02:48:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 02:48:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 02:48:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 02:48:45 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 02:49:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:49:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 214 ms
+2023-04-14 02:49:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:49:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:50:00 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 7348@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 02:50:01 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 02:50:01 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 02:50:01 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 02:50:01 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 02:50:01 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 02:50:01 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 02:50:01 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 02:50:01 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 02:50:01 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 02:50:01 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 02:51:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:51:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 219 ms
+2023-04-14 02:51:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:51:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:51:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:51:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:51:59 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 10340@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 02:51:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 02:51:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 02:51:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 02:51:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 02:51:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 02:51:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 02:51:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 02:51:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 02:51:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 02:51:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 02:53:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:53:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 236 ms
+2023-04-14 02:53:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:53:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:53:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:53:17 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 02:53:23 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 31704@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 02:53:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 02:53:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 02:53:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 02:53:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 02:53:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 02:53:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 02:53:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 02:53:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 02:53:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 02:53:23 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 02:56:26 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:56:26 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 220 ms
+2023-04-14 02:56:26 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:56:26 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 02:56:27 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 02:56:27 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 02:56:32 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 21908@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 02:56:32 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 02:56:32 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 02:56:32 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 02:56:32 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 02:56:32 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 02:56:32 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 02:56:32 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 02:56:32 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 02:56:32 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 02:56:32 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 03:05:12 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:05:12 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 229 ms
+2023-04-14 03:05:13 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:05:13 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:05:13 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:05:13 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:05:18 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 30476@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 03:05:18 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 03:05:18 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 03:05:18 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 03:05:18 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 03:05:18 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 03:05:18 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 03:05:18 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 03:05:18 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 03:05:18 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 03:05:18 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 03:06:10 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:06:10 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 251 ms
+2023-04-14 03:06:10 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:06:10 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:06:10 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:06:10 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:06:16 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 680@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 03:06:16 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 03:06:16 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 03:06:16 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 03:06:16 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 03:06:16 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 03:06:16 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 03:06:16 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 03:06:16 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 03:06:16 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 03:06:16 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 03:08:36 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:08:36 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 225 ms
+2023-04-14 03:08:36 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:08:36 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:08:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:08:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 03:08:41 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 32148@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 03:08:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 03:08:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 03:08:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 03:08:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 03:08:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 03:08:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 03:08:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 03:08:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 03:08:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 03:08:42 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 03:18:15 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:18:15 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 298 ms
+2023-04-14 03:18:15 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:18:15 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:18:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:18:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 03:18:20 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 31956@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 03:18:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 03:18:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 03:18:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 03:18:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 03:18:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 03:18:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 03:18:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 03:18:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 03:18:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 03:18:20 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 03:19:39 [Thread-6] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 31956@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 03:19:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 03:19:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 03:19:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 03:19:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 03:19:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 03:19:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 03:19:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 03:19:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 03:19:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 03:19:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 03:46:15 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:46:15 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 286 ms
+2023-04-14 03:46:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:46:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:46:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:46:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:47:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:47:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 255 ms
+2023-04-14 03:47:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:47:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:47:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:47:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:48:33 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:48:33 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 251 ms
+2023-04-14 03:48:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:48:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:48:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:48:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:51:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:51:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 236 ms
+2023-04-14 03:51:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:51:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:51:04 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:51:04 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:51:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:51:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 261 ms
+2023-04-14 03:51:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:51:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:51:36 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:51:36 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 03:52:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:52:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 234 ms
+2023-04-14 03:52:44 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:52:44 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 03:52:44 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:52:44 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:55:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:55:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 234 ms
+2023-04-14 03:55:25 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:55:25 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:55:25 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:55:25 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:55:33 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 30704@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 03:55:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 03:55:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 03:55:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 03:55:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 03:55:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 03:55:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 03:55:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 03:55:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 03:55:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 03:55:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 03:56:28 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:56:28 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1274 ms
+2023-04-14 03:56:28 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:56:28 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:56:29 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:56:29 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 03:56:33 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 28564@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 03:56:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 03:56:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 03:56:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 03:56:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 03:56:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 03:56:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 03:56:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 03:56:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 03:56:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 03:56:33 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 03:57:04 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:57:04 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 250 ms
+2023-04-14 03:57:04 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:57:04 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:57:04 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:57:04 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:58:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:58:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 3262 ms
+2023-04-14 03:58:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:58:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 03:58:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 03:58:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 03:58:54 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 1576@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 03:58:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 03:58:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 03:58:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 03:58:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 03:58:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 03:58:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 03:58:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 03:58:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 03:58:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 03:58:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:02:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:02:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 249 ms
+2023-04-14 04:02:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:02:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 04:02:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:02:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:02:27 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 14520@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:02:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:02:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:02:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:02:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:02:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:02:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:02:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:02:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:02:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:02:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:02:59 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:02:59 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 228 ms
+2023-04-14 04:02:59 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:02:59 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:03:00 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:03:00 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 04:03:04 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 27768@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:03:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:03:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:03:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:03:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:03:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:03:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:03:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:03:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:03:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:03:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:03:52 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:03:52 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 259 ms
+2023-04-14 04:03:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:03:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:03:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:03:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:03:58 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 12852@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:03:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:03:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:03:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:03:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:03:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:03:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:03:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:03:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:03:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:03:59 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:05:00 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:05:00 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 232 ms
+2023-04-14 04:05:00 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:05:00 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:05:01 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:05:01 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:05:05 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 10248@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:05:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:05:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:05:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:05:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:05:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:05:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:05:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:05:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:05:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:05:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:06:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:06:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 233 ms
+2023-04-14 04:06:25 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:06:25 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:06:25 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:06:25 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:06:47 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:06:47 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 239 ms
+2023-04-14 04:06:47 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:06:47 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:06:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:06:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 04:06:53 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 6804@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:06:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:06:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:06:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:06:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:06:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:06:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:06:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:06:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:06:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:06:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:09:44 [Thread-6] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 6804@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:09:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:09:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:09:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:09:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:09:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:09:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:09:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:09:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:09:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:09:44 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:12:49 [Thread-7] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 6804@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:12:49 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:12:49 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:12:49 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:12:49 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:12:49 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:12:49 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:12:49 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:12:49 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:12:49 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:12:49 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:18:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:18:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 233 ms
+2023-04-14 04:18:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:18:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:18:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:18:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:19:36 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 10540@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:19:36 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:19:36 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:19:36 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:19:36 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:19:36 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:19:36 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:19:36 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:19:36 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:19:36 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:19:36 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:21:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:21:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 202 ms
+2023-04-14 04:21:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:21:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:21:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:21:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:21:56 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 6400@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:31:31 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:31:31 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 258 ms
+2023-04-14 04:31:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:31:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 04:31:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:31:32 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:32:26 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 11460@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:32:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:32:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:32:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:32:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:32:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:32:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:32:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:32:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:32:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:32:27 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:34:57 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:34:57 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 326 ms
+2023-04-14 04:34:57 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:34:57 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:34:58 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:34:58 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:35:06 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 30260@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:35:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:35:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:35:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:35:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:35:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:35:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:35:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:35:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:35:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:35:07 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:36:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:36:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 266 ms
+2023-04-14 04:36:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:36:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:36:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:36:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:36:50 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 28640@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:36:50 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:36:50 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:36:50 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:36:50 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:36:50 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:36:50 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:36:50 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:36:50 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:36:50 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:36:50 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:40:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:40:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 247 ms
+2023-04-14 04:40:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:40:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:40:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:40:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:41:57 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:41:57 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 241 ms
+2023-04-14 04:41:58 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:41:58 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:41:58 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:41:58 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:42:09 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 35536@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:42:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:42:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:42:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:42:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:42:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:42:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:42:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:42:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:42:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:42:09 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:42:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:42:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 231 ms
+2023-04-14 04:42:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:42:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:42:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:42:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 04:42:54 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 27388@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:42:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:42:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:42:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:42:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:42:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:42:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:42:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:42:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:42:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:42:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:43:00 [Thread-6] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 27388@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:43:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:43:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:43:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:43:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:43:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:43:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:43:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:43:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:43:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:43:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:43:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:43:40 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 203 ms
+2023-04-14 04:43:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:43:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:43:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:43:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 04:44:07 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:44:07 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 204 ms
+2023-04-14 04:44:08 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:44:08 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:44:08 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:44:08 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:44:13 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 28428@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:44:13 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:44:13 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:44:13 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:44:13 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:44:13 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:44:13 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:44:13 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:44:13 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:44:13 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:44:13 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:44:47 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:44:47 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 236 ms
+2023-04-14 04:44:47 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:44:47 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:44:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:44:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:44:54 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 18820@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:44:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:44:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:44:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:44:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:44:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:44:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:44:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:44:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:44:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:44:54 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:45:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:45:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 235 ms
+2023-04-14 04:45:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:45:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 04:45:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:45:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 04:45:43 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 30188@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:45:43 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:45:43 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:45:43 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:45:43 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:45:43 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:45:43 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:45:43 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:45:43 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:45:43 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:45:43 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:49:45 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:49:45 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 209 ms
+2023-04-14 04:49:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:49:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:49:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:49:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:50:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:50:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 234 ms
+2023-04-14 04:50:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:50:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:50:50 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:50:50 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:50:54 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 23316@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:50:55 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:50:55 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:50:55 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:50:55 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:50:55 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:50:55 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:50:55 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:50:55 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:50:55 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:50:55 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:51:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:51:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 204 ms
+2023-04-14 04:51:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:51:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:51:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:51:55 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 04:52:05 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 8540@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:52:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:52:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:52:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:52:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:52:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:52:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:52:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:52:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:52:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:52:05 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:52:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:52:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 222 ms
+2023-04-14 04:52:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:52:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:52:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:52:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:52:53 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 21908@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:52:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:52:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:52:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:52:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:52:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:52:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:52:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:52:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:52:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:52:53 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:54:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:54:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 227 ms
+2023-04-14 04:54:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:54:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:54:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:54:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 04:54:56 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 20796@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:54:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:54:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:54:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:54:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:54:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:54:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:54:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:54:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:54:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:54:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 04:56:26 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:56:26 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 245 ms
+2023-04-14 04:56:27 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:56:27 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:56:27 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:56:27 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:56:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:56:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 236 ms
+2023-04-14 04:56:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:56:53 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 04:56:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 04:56:54 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 04:56:59 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 28696@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 04:57:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 04:57:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 04:57:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 04:57:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 04:57:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 04:57:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 04:57:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 04:57:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 04:57:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 04:57:00 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 05:01:26 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:01:26 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 243 ms
+2023-04-14 05:01:27 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:01:27 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 05:01:27 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:01:27 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 05:02:21 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:02:21 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 252 ms
+2023-04-14 05:02:22 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:02:22 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:02:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:02:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:02:35 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 12628@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 05:02:35 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 05:02:35 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 05:02:35 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 05:02:35 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 05:02:35 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 05:02:35 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 05:02:35 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 05:02:35 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 05:02:35 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 05:02:35 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 05:03:04 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:03:04 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 194 ms
+2023-04-14 05:03:05 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:03:05 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:03:05 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:03:05 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:05:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:05:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 203 ms
+2023-04-14 05:05:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:05:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 05:05:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:05:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 2 ms
+2023-04-14 05:05:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:05:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 232 ms
+2023-04-14 05:05:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:05:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:05:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:05:43 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:05:57 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 14812@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 05:05:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 05:05:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 05:05:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 05:05:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 05:05:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 05:05:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 05:05:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 05:05:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 05:05:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 05:05:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 05:06:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:06:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 228 ms
+2023-04-14 05:06:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:06:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:06:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:06:46 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:08:08 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:08:08 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 233 ms
+2023-04-14 05:08:09 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:08:09 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:08:09 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:08:09 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:09:22 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:09:22 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 228 ms
+2023-04-14 05:09:22 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:09:22 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:09:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:09:23 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:10:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:10:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 194 ms
+2023-04-14 05:10:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:10:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:10:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:10:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:12:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:12:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 200 ms
+2023-04-14 05:12:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:12:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:12:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:12:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:13:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:13:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 222 ms
+2023-04-14 05:13:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:13:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:13:04 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:13:04 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:13:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:13:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 191 ms
+2023-04-14 05:13:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:13:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:13:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:13:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:14:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:14:41 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 191 ms
+2023-04-14 05:14:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:14:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:14:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:14:42 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:14:57 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:14:57 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 217 ms
+2023-04-14 05:14:57 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:14:57 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:14:57 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:14:57 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:16:21 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:16:21 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 225 ms
+2023-04-14 05:16:22 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:16:22 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:16:22 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:16:22 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 05:16:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:16:48 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 227 ms
+2023-04-14 05:16:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:16:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:16:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:16:49 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:17:05 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:17:05 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 200 ms
+2023-04-14 05:17:06 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:17:06 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:17:06 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:17:06 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:17:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:17:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 234 ms
+2023-04-14 05:17:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:17:24 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:17:25 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:17:25 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:18:21 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:18:21 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 231 ms
+2023-04-14 05:18:22 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:18:22 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 05:18:22 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:18:22 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:19:15 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:19:15 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 235 ms
+2023-04-14 05:19:15 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:19:15 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 05:19:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:19:16 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:21:14 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:21:14 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 245 ms
+2023-04-14 05:21:14 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:21:14 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:21:15 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:21:15 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:21:55 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 8780@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 05:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 05:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 05:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 05:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 05:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 05:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 05:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 05:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 05:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 05:21:56 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010
+2023-04-14 05:23:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:23:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 267 ms
+2023-04-14 05:23:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:23:38 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-04-14 05:23:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.197.20
+2023-04-14 05:23:39 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-04-14 05:23:58 [Thread-5] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 14128@DESKTOP-2OE000C (d:\JProxyTools)
+2023-04-14 05:23:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7001
+2023-04-14 05:23:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7002
+2023-04-14 05:23:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7003
+2023-04-14 05:23:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7004
+2023-04-14 05:23:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7005
+2023-04-14 05:23:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7006
+2023-04-14 05:23:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7007
+2023-04-14 05:23:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7008
+2023-04-14 05:23:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7009
+2023-04-14 05:23:58 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:7010

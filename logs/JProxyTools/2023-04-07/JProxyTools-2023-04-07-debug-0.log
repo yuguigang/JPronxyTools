@@ -1,0 +1,421 @@
+2023-04-07 10:10:56 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 10:10:56 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 10:10:56 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置强调色： AccentColor[primaryColor=0xbf3989ff, pseudoClass=accent-primer-pink]
+2023-04-07 10:10:56 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 10:10:56 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 10:10:57 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 10:10:58 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 10:10:58 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 10:10:58 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 还原强调色。
+2023-04-07 10:10:58 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置强调色： AccentColor[primaryColor=0xbf3989ff, pseudoClass=accent-primer-pink]
+2023-04-07 10:10:58 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 10:10:58 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 10:11:26 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 10:11:32 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 10:11:49 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 10:12:13 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 10:12:15 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 暂存到UserSettings.Prop ： key:Theme_Name,value:com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 10:12:15 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 10:12:15 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 10:12:15 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 还原强调色。
+2023-04-07 10:14:39 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 10:15:27 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 10:15:30 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 10:15:33 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 10:15:44 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 10:17:26 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 10:17:49 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 10:18:30 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 10:18:34 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 10:19:00 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 10:23:37 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 10:23:37 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 10:23:37 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置强调色： AccentColor[primaryColor=0xbf3989ff, pseudoClass=accent-primer-pink]
+2023-04-07 10:23:37 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 10:23:37 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 10:23:37 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 10:23:38 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 10:23:38 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 10:23:38 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 还原强调色。
+2023-04-07 10:23:38 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置强调色： AccentColor[primaryColor=0xbf3989ff, pseudoClass=accent-primer-pink]
+2023-04-07 10:23:38 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 10:23:38 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 10:28:17 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 10:28:17 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 10:28:17 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置强调色： AccentColor[primaryColor=0xbf3989ff, pseudoClass=accent-primer-pink]
+2023-04-07 10:28:17 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 10:28:17 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 10:28:17 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 10:28:18 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 10:28:18 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 10:28:18 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 还原强调色。
+2023-04-07 10:28:18 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置强调色： AccentColor[primaryColor=0xbf3989ff, pseudoClass=accent-primer-pink]
+2023-04-07 10:28:18 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 10:28:18 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 11:08:07 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 11:08:07 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 11:08:07 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置强调色： AccentColor[primaryColor=0xbf3989ff, pseudoClass=accent-primer-pink]
+2023-04-07 11:08:07 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 11:08:07 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 11:08:08 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 11:08:08 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 11:08:08 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 11:08:08 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 还原强调色。
+2023-04-07 11:08:08 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置强调色： AccentColor[primaryColor=0xbf3989ff, pseudoClass=accent-primer-pink]
+2023-04-07 11:08:08 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 11:08:08 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 11:27:33 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 11:27:33 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 11:27:33 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置强调色： AccentColor[primaryColor=0xbf3989ff, pseudoClass=accent-primer-pink]
+2023-04-07 11:27:33 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 11:27:33 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 11:27:34 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 11:27:34 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 11:27:34 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 11:27:34 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 还原强调色。
+2023-04-07 11:27:34 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置强调色： AccentColor[primaryColor=0xbf3989ff, pseudoClass=accent-primer-pink]
+2023-04-07 11:27:34 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 11:27:34 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 11:27:55 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 11:27:55 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 11:27:55 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置强调色： AccentColor[primaryColor=0xbf3989ff, pseudoClass=accent-primer-pink]
+2023-04-07 11:27:55 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 11:27:55 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 11:27:56 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 11:27:56 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 11:27:56 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 11:27:56 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 还原强调色。
+2023-04-07 11:27:56 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置强调色： AccentColor[primaryColor=0xbf3989ff, pseudoClass=accent-primer-pink]
+2023-04-07 11:27:56 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 11:27:56 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 11:29:14 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 11:29:14 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 11:29:14 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置强调色： AccentColor[primaryColor=0xbf3989ff, pseudoClass=accent-primer-pink]
+2023-04-07 11:29:14 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 11:29:14 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 11:29:15 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 11:29:15 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 11:29:15 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 11:29:15 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 还原强调色。
+2023-04-07 11:29:15 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置强调色： AccentColor[primaryColor=0xbf3989ff, pseudoClass=accent-primer-pink]
+2023-04-07 11:29:15 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 11:29:15 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 11:30:03 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 11:30:06 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 暂存到UserSettings.Prop ： key:Theme_Name,value:com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 11:30:06 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 11:30:06 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 11:30:06 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 还原强调色。
+2023-04-07 11:30:55 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 11:31:00 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 暂存到UserSettings.Prop ： key:Theme_Name,value:com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 11:31:00 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 11:31:00 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 11:32:10 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 11:32:13 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 暂存到UserSettings.Prop ： key:Theme_Name,value:com.ztoncloud.jproxytools.theme.SamplerTheme@98f2f1f
+2023-04-07 11:32:13 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@98f2f1f
+2023-04-07 11:32:13 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 11:33:18 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 13:00:08 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 13:00:12 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 13:00:12 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 13:00:12 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 13:00:12 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 13:00:12 [pool-3-thread-2] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 13:00:12 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 13:00:12 [pool-3-thread-3] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 13:00:12 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 13:01:30 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 13:01:32 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 13:01:32 [pool-3-thread-2] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 13:01:32 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 13:01:32 [pool-3-thread-3] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 13:01:32 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 13:01:32 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 13:01:32 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 13:01:32 [pool-3-thread-2] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 13:49:13 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@7c918518 - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@7ffb9c5d
+2023-04-07 13:49:13 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 13:49:14 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@7c918518 - 设置字体： Inter
+2023-04-07 13:49:14 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@7c918518 - 设置字体大小： 14
+2023-04-07 13:49:14 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 13:49:15 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@7c918518 - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@7ffb9c5d
+2023-04-07 13:49:15 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 13:49:15 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@7c918518 - 设置字体： Inter
+2023-04-07 13:49:15 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@7c918518 - 设置字体大小： 14
+2023-04-07 13:49:23 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 13:49:23 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 13:49:23 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 13:49:23 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@340c94e1 - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 13:49:23 [pool-3-thread-2] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 13:49:23 [pool-3-thread-3] DEBUG c.z.j.t.SamplerTheme@340c94e1 - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 13:49:23 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7d88cf48 - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 13:49:23 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@7d88cf48 - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 13:50:03 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 13:50:03 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 13:50:03 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 13:50:03 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 13:50:04 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 13:50:04 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 13:50:04 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 13:50:04 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 13:50:04 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 13:50:07 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 13:50:07 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 13:50:07 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 13:50:07 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 13:50:07 [pool-3-thread-2] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 13:50:07 [pool-3-thread-3] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 13:50:07 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 13:50:07 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 14:08:15 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 14:08:15 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 14:08:15 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 14:08:15 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 14:08:16 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 14:08:17 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 14:08:17 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 14:08:17 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 14:08:17 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 19:23:31 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 19:23:32 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 19:23:32 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 19:23:32 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 19:23:32 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 19:23:32 [pool-3-thread-2] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 19:23:32 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 19:23:32 [pool-3-thread-3] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 19:23:32 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 21:16:42 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 21:16:42 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 21:16:42 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 21:16:42 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 21:16:43 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 21:16:43 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 21:16:43 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 21:16:43 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 21:16:43 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 21:16:46 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 21:16:46 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 21:16:46 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 21:16:46 [pool-3-thread-2] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 21:16:46 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 21:16:46 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 21:16:46 [pool-3-thread-3] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 21:16:46 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 21:32:29 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 21:32:30 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 21:32:30 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 21:32:30 [pool-3-thread-2] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 21:32:30 [pool-3-thread-3] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 21:32:30 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 21:32:30 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 21:32:30 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 21:32:30 [pool-3-thread-2] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 21:32:48 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 暂存到UserSettings.Prop ： key:Theme_Name,value:com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 21:32:48 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 21:32:48 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 21:51:08 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 21:51:10 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 21:51:10 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 21:51:10 [pool-3-thread-3] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 21:51:10 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 21:51:10 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 21:51:10 [pool-3-thread-2] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 21:51:10 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 21:51:10 [pool-3-thread-3] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 22:14:59 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 22:14:59 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 22:14:59 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 22:14:59 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 22:15:00 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 22:15:00 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 22:15:00 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 22:15:00 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 22:15:00 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 22:23:27 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 22:23:27 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 22:23:27 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 22:23:27 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 22:23:29 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 22:23:29 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 22:23:29 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 22:23:29 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 22:23:29 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 22:27:36 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 22:27:36 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 22:27:37 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 22:27:37 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 22:27:38 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 22:27:39 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 22:27:39 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 22:27:39 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 22:27:39 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 22:30:16 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 22:30:16 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 22:30:16 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 22:30:16 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 22:30:17 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 22:30:17 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 22:30:17 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 22:30:17 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 22:30:17 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 22:33:02 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 22:33:04 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 22:33:04 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 22:33:04 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 22:33:04 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 22:33:04 [pool-3-thread-2] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 22:33:04 [pool-3-thread-3] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 22:33:04 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 22:33:04 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 23:10:32 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 23:10:32 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:10:32 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 23:10:32 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 23:10:33 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 23:10:33 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 23:10:33 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:10:33 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 23:10:33 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 23:10:37 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:10:37 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:10:37 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 23:10:37 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 23:10:37 [pool-3-thread-2] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 23:10:37 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 23:10:37 [pool-3-thread-3] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 23:10:37 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 23:11:08 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 23:11:09 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:11:09 [pool-4-thread-1] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:11:09 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 23:11:09 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 23:11:09 [pool-4-thread-2] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 23:11:09 [pool-4-thread-3] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 23:11:09 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 23:11:09 [pool-4-thread-1] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 23:11:20 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:11:20 [pool-3-thread-2] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:11:20 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 23:11:20 [pool-3-thread-3] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 23:11:20 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 23:11:20 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 23:11:20 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 23:11:20 [pool-3-thread-2] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 23:14:21 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 23:14:29 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:14:29 [pool-4-thread-2] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:14:29 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 23:14:29 [pool-4-thread-3] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 23:14:29 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 23:14:29 [pool-4-thread-1] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 23:14:29 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 23:14:29 [pool-4-thread-2] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 23:21:47 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 23:21:47 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:21:47 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 23:21:47 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 23:21:48 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 23:21:48 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 23:21:48 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:21:48 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 23:21:48 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 23:21:51 [JavaFX Application Thread] DEBUG c.z.j.f.p.g.ProxyPanelPage - 重写页： null
+2023-04-07 23:23:11 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 23:23:11 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:23:11 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 23:23:11 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 23:23:12 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 23:23:12 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 23:23:12 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:23:12 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 23:23:12 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 23:23:15 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:23:15 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:23:15 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 23:23:15 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 23:23:15 [pool-3-thread-2] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 23:23:15 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 23:23:15 [pool-3-thread-3] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 23:23:15 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 23:23:15 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 重写页： Overlay@245b7c1d[styleClass=overlay]
+2023-04-07 23:25:25 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 23:25:25 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:25:25 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 23:25:25 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 23:25:25 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 23:25:26 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 23:25:26 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:25:26 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 23:25:26 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 23:25:29 [JavaFX Application Thread] DEBUG c.z.j.f.p.g.ProxyPanelPage - 重写页： null
+2023-04-07 23:29:58 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@4b969b79 - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 23:29:58 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:29:58 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@4b969b79 - 设置字体： Inter
+2023-04-07 23:29:58 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@4b969b79 - 设置字体大小： 14
+2023-04-07 23:29:59 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 重写页： null
+2023-04-07 23:29:59 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 23:29:59 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@4b969b79 - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@2b4c4028
+2023-04-07 23:29:59 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:29:59 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@4b969b79 - 设置字体： Inter
+2023-04-07 23:29:59 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@4b969b79 - 设置字体大小： 14
+2023-04-07 23:37:31 [JavaFX Application Thread] DEBUG c.z.j.f.p.g.ProxyPanelPage - 重写页： null
+2023-04-07 23:37:32 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:37:32 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:37:32 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 23:37:32 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 23:37:32 [pool-3-thread-2] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 23:37:32 [pool-3-thread-3] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 23:37:32 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@340c94e1 - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 23:37:32 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@340c94e1 - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 23:42:14 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 23:42:14 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:42:14 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 23:42:14 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 23:42:15 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 重写页1： null
+2023-04-07 23:42:15 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 23:42:15 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 重写页2： null
+2023-04-07 23:42:15 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 23:42:15 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:42:15 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 23:42:15 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 23:42:35 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:42:35 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:42:35 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 23:42:35 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 23:42:35 [pool-3-thread-2] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 23:42:35 [pool-3-thread-3] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 23:42:35 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 23:42:35 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 23:42:35 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 重写页3： Overlay@245b7c1d[styleClass=overlay]
+2023-04-07 23:50:40 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 23:50:40 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:50:40 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 23:50:40 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 23:50:40 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 重写页1： null
+2023-04-07 23:50:40 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 23:50:41 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 重写页2： null
+2023-04-07 23:50:41 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置主题： com.ztoncloud.jproxytools.theme.SamplerTheme@5bdcdc4b
+2023-04-07 23:50:41 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:50:41 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体： Inter
+2023-04-07 23:50:41 [JavaFX Application Thread] DEBUG c.z.j.t.ThemeManager@2b57e18c - 设置字体大小： 14
+2023-04-07 23:50:44 [JavaFX Application Thread] DEBUG c.z.j.f.p.g.ProxyPanelPage - 重写页： null
+2023-04-07 23:50:45 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:50:45 [pool-3-thread-1] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:50:45 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 23:50:45 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 23:50:45 [pool-3-thread-2] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 23:50:45 [pool-3-thread-3] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 23:50:45 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 23:50:45 [pool-3-thread-2] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 23:50:57 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 重写页1： null
+2023-04-07 23:50:57 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 默认语言： 中文 (中国)
+2023-04-07 23:50:57 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 重写页2： null
+2023-04-07 23:50:59 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:50:59 [pool-4-thread-1] DEBUG c.z.j.t.SamplerTheme@5bdcdc4b - 主题文件路径：\atlantafx\base\theme\primer-light.css
+2023-04-07 23:50:59 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 23:50:59 [pool-4-thread-2] DEBUG c.z.j.t.SamplerTheme@2b4c4028 - 主题文件路径：\atlantafx\base\theme\primer-dark.css
+2023-04-07 23:50:59 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 23:50:59 [pool-4-thread-3] DEBUG c.z.j.t.SamplerTheme@7ffb9c5d - 主题文件路径：\atlantafx\base\theme\nord-light.css
+2023-04-07 23:50:59 [JavaFX Application Thread] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 23:50:59 [pool-4-thread-1] DEBUG c.z.j.t.SamplerTheme@98f2f1f - 主题文件路径：\atlantafx\base\theme\nord-dark.css
+2023-04-07 23:50:59 [JavaFX Application Thread] DEBUG c.z.j.l.p.ThemePage - 重写页3： Overlay@245b7c1d[styleClass=overlay]

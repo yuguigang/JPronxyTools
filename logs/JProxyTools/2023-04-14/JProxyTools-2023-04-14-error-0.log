@@ -1,0 +1,6 @@
+2023-04-14 00:10:25 [Thread-5] ERROR c.z.j.f.p.J.RunServer - 运行错误。java.lang.NullPointerException: Cannot read the array length because "this.ChannelFutures" is null
+2023-04-14 00:11:53 [Thread-6] ERROR c.z.j.f.p.J.RunServer - 运行错误。java.lang.NullPointerException: Cannot read the array length because "this.ChannelFutures" is null
+2023-04-14 00:13:42 [Thread-5] ERROR c.z.j.f.p.J.RunServer - 运行错误。java.lang.NullPointerException: Cannot read the array length because "this.ChannelFutures" is null
+2023-04-14 00:21:05 [Thread-5] ERROR c.z.j.f.p.J.RunServer - 运行错误。java.lang.NullPointerException: Cannot read the array length because "this.ChannelFutures" is null
+2023-04-14 01:29:20 [Thread-5] ERROR c.z.j.f.p.J.RunServer - 运行错误。java.lang.NullPointerException: Cannot invoke "javafx.beans.property.SimpleBooleanProperty.set(boolean)" because "com.ztoncloud.jproxytools.functional.proxypanel.JProxy.JServer.isRun" is null
+2023-04-14 02:49:54 [JavaFX Application Thread] ERROR c.z.j.c.SettingsConfig - API服务器请求错误,请检查网络连接和服务器是否运行正常！

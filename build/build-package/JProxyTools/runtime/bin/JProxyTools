@@ -1,0 +1,9 @@
+#!/bin/sh
+SCRIPT_NAME=$(basename "$0")
+APP_NAME=${SCRIPT_NAME%.sh}
+
+DIR="${0%/*}"
+
+
+
+"$DIR/java" $CDS_JVM_OPTS -XX:+UseZGC -XX:+ShowCodeDetailsInExceptionMessages -Dsun.java2d.opengl=true -Dhttps.protocols=TLSv1.1,TLSv1.2 -p "$DIR/../app" -m jproxytools/com.ztoncloud.jproxytools.Launcher  "$@"

@@ -1,0 +1,159 @@
+2023-03-05 00:05:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.193.149
+2023-03-05 00:05:34 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 394 ms
+2023-03-05 00:05:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.193.149
+2023-03-05 00:05:35 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-03-05 00:05:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.193.149
+2023-03-05 00:05:37 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 1 ms
+2023-03-05 02:43:47 [main] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 10748@DESKTOP-2OE000C (d:\JProxyTools)
+2023-03-05 02:43:47 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5001
+2023-03-05 02:43:47 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5002
+2023-03-05 02:43:47 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5003
+2023-03-05 02:43:47 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5004
+2023-03-05 02:43:47 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5005
+2023-03-05 02:43:47 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5006
+2023-03-05 02:43:47 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5007
+2023-03-05 02:43:47 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5008
+2023-03-05 02:43:47 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5009
+2023-03-05 02:43:47 [main] INFO  c.z.j.f.p.J.JServer - [AbstractBootstrap$PendingRegistrationPromise@238d68ff(success), AbstractBootstrap$PendingRegistrationPromise@4b86805d(success), AbstractBootstrap$PendingRegistrationPromise@5852c06f(success), AbstractBootstrap$PendingRegistrationPromise@4149c063(success), AbstractBootstrap$PendingRegistrationPromise@9cb8225(success), AbstractBootstrap$PendingRegistrationPromise@76b07f29(success), AbstractBootstrap$PendingRegistrationPromise@38af9828(success), AbstractBootstrap$PendingRegistrationPromise@376a0d86(success), AbstractBootstrap$PendingRegistrationPromise@62656be4(success), AbstractBootstrap$PendingRegistrationPromise@17d919b6(success)]
+2023-03-05 02:43:47 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5010
+2023-03-05 02:43:47 [main] INFO  c.z.j.f.p.J.JServer - 保持管道 Channel： AbstractBootstrap$PendingRegistrationPromise@238d68ff(success) id: e2067d52
+2023-03-05 02:48:02 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.193.149
+2023-03-05 02:48:02 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 419 ms
+2023-03-05 02:48:02 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.193.149
+2023-03-05 02:48:02 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-03-05 02:48:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.193.149
+2023-03-05 02:48:03 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 0 ms
+2023-03-05 02:48:19 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 本机互联网ip： 106.84.193.149
+2023-03-05 02:48:19 [JavaFX Application Thread] INFO  c.z.j.c.SettingsConfig - 网络延时:: 176 ms
+2023-03-05 02:48:59 [JavaFX Application Thread] INFO  c.z.j.f.p.g.SearchBox - 选中值（地/市/州）： null
+2023-03-05 02:48:59 [JavaFX Application Thread] INFO  c.z.j.f.p.g.SearchBox - 选中值（地/市/州）： JP
+2023-03-05 02:48:59 [JavaFX Application Thread] INFO  c.z.j.f.p.g.SearchBox - 选中值（地/市/州）： null
+2023-03-05 02:48:59 [JavaFX Application Thread] INFO  c.z.j.f.p.g.SearchBox - 选中值（地/市/州）： JP
+2023-03-05 02:49:01 [JavaFX Application Thread] INFO  c.z.j.f.p.g.SearchBox - 选中值（地/市/州）： null
+2023-03-05 02:49:01 [JavaFX Application Thread] INFO  c.z.j.f.p.g.SearchBox - 选中值（地/市/州）： JP
+2023-03-05 02:49:02 [JavaFX Application Thread] INFO  c.z.j.f.p.g.SearchBox - 选中值（地/市/州）： null
+2023-03-05 02:49:02 [JavaFX Application Thread] INFO  c.z.j.f.p.g.SearchBox - 选中值（地/市/州）： JP
+2023-03-05 02:49:03 [JavaFX Application Thread] INFO  c.z.j.f.p.g.SearchBox - 选中值（地/市/州）： null
+2023-03-05 02:49:11 [JavaFX Application Thread] INFO  c.z.j.f.p.g.SearchBox - 选中值（地/市/州）： 
+2023-03-05 02:49:15 [JavaFX Application Thread] INFO  c.z.j.f.p.g.SearchBox - 选中值（地/市/州）： JP
+2023-03-05 02:51:52 [main] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 12888@DESKTOP-2OE000C (d:\JProxyTools)
+2023-03-05 02:51:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5001
+2023-03-05 02:51:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5002
+2023-03-05 02:51:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5003
+2023-03-05 02:51:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5004
+2023-03-05 02:51:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5005
+2023-03-05 02:51:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5006
+2023-03-05 02:51:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5007
+2023-03-05 02:51:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5008
+2023-03-05 02:51:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5009
+2023-03-05 02:51:52 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5010
+2023-03-05 02:51:52 [main] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@4b8729ff(success), AbstractBootstrap$PendingRegistrationPromise@61710c6(success), AbstractBootstrap$PendingRegistrationPromise@3214ee6(success), AbstractBootstrap$PendingRegistrationPromise@383dc82c(success), AbstractBootstrap$PendingRegistrationPromise@4a07d605(success), AbstractBootstrap$PendingRegistrationPromise@74287ea3(success), AbstractBootstrap$PendingRegistrationPromise@7d7758be(success), AbstractBootstrap$PendingRegistrationPromise@2bdd8394(success), AbstractBootstrap$PendingRegistrationPromise@5f9edf14(success), AbstractBootstrap$PendingRegistrationPromise@68746f22(success)]
+2023-03-05 02:52:21 [main] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 13408@DESKTOP-2OE000C (d:\JProxyTools)
+2023-03-05 02:52:22 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5001
+2023-03-05 02:52:22 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5002
+2023-03-05 02:52:22 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5003
+2023-03-05 02:52:22 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5004
+2023-03-05 02:52:22 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5005
+2023-03-05 02:52:22 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5006
+2023-03-05 02:52:22 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5007
+2023-03-05 02:52:22 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5008
+2023-03-05 02:52:22 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5009
+2023-03-05 02:52:22 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5010
+2023-03-05 02:52:22 [main] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@4b8729ff(success), AbstractBootstrap$PendingRegistrationPromise@61710c6(success), AbstractBootstrap$PendingRegistrationPromise@3214ee6(success), AbstractBootstrap$PendingRegistrationPromise@383dc82c(success), AbstractBootstrap$PendingRegistrationPromise@4a07d605(success), AbstractBootstrap$PendingRegistrationPromise@74287ea3(success), AbstractBootstrap$PendingRegistrationPromise@7d7758be(success), AbstractBootstrap$PendingRegistrationPromise@2bdd8394(success), AbstractBootstrap$PendingRegistrationPromise@5f9edf14(success), AbstractBootstrap$PendingRegistrationPromise@68746f22(success)]
+2023-03-05 02:55:52 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x2055c511, L:/192.168.31.193:5006 - R:/192.168.31.215:40440] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:40440
+2023-03-05 02:55:52 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-05 02:55:52 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-05 02:55:52 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：IPv4(1) ,地址： 1.14.47.160 ，端口： 8088
+2023-03-05 02:55:52 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：IPv4(1) ,地址： 1.14.47.160 ，端口： 8088
+2023-03-05 02:57:56 [main] INFO  c.z.j.f.p.ServerContext - list: [{ip=192.168.31.1/24, accept=ACCEPT}, {ip=127.0.0.1/0, accept=REJECT}]
+2023-03-05 02:57:56 [main] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 12240@DESKTOP-2OE000C (d:\JProxyTools)
+2023-03-05 02:57:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5001
+2023-03-05 02:57:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5002
+2023-03-05 02:57:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5003
+2023-03-05 02:57:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5004
+2023-03-05 02:57:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5005
+2023-03-05 02:57:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5006
+2023-03-05 02:57:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5007
+2023-03-05 02:57:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5008
+2023-03-05 02:57:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5009
+2023-03-05 02:57:57 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5010
+2023-03-05 02:57:57 [main] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@4b8729ff(success), AbstractBootstrap$PendingRegistrationPromise@61710c6(success), AbstractBootstrap$PendingRegistrationPromise@3214ee6(success), AbstractBootstrap$PendingRegistrationPromise@383dc82c(success), AbstractBootstrap$PendingRegistrationPromise@4a07d605(success), AbstractBootstrap$PendingRegistrationPromise@74287ea3(success), AbstractBootstrap$PendingRegistrationPromise@7d7758be(success), AbstractBootstrap$PendingRegistrationPromise@2bdd8394(success), AbstractBootstrap$PendingRegistrationPromise@5f9edf14(success), AbstractBootstrap$PendingRegistrationPromise@68746f22(success)]
+2023-03-05 02:58:28 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.I.IpFilterRuleHandler - Int: 2
+2023-03-05 02:58:28 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.I.IpFilterRuleHandler - ip： 192.168.31.1/24 accept: ACCEPT
+2023-03-05 02:58:28 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.I.IpFilterRuleHandler - ip： 127.0.0.1/0 accept: REJECT
+2023-03-05 02:58:28 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x2eeb03b4, L:/192.168.31.193:5006 - R:/192.168.31.215:40442] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:40442
+2023-03-05 02:58:28 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-05 02:58:28 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-05 02:58:28 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：IPv4(1) ,地址： 1.14.47.160 ，端口： 8088
+2023-03-05 02:58:28 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：IPv4(1) ,地址： 1.14.47.160 ，端口： 8088
+2023-03-05 03:01:40 [main] INFO  c.z.j.f.p.ServerContext - list: [{ip=192.168.31.1/24, accept=ACCEPT}, {ip=127.0.0.1/0, accept=REJECT}]
+2023-03-05 03:01:40 [main] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 21060@DESKTOP-2OE000C (d:\JProxyTools)
+2023-03-05 03:01:40 [main] INFO  c.z.j.f.p.J.h.I.IpFilterRuleHandler - Int: 2
+2023-03-05 03:01:40 [main] INFO  c.z.j.f.p.J.h.I.IpFilterRuleHandler - ip： 192.168.31.1/24 accept: ACCEPT
+2023-03-05 03:01:40 [main] INFO  c.z.j.f.p.J.h.I.IpFilterRuleHandler - ip： 127.0.0.1/0 accept: REJECT
+2023-03-05 03:01:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5001
+2023-03-05 03:01:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5002
+2023-03-05 03:01:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5003
+2023-03-05 03:01:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5004
+2023-03-05 03:01:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5005
+2023-03-05 03:01:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5006
+2023-03-05 03:01:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5007
+2023-03-05 03:01:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5008
+2023-03-05 03:01:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5009
+2023-03-05 03:01:41 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5010
+2023-03-05 03:01:41 [main] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@76b07f29(success), AbstractBootstrap$PendingRegistrationPromise@38af9828(success), AbstractBootstrap$PendingRegistrationPromise@376a0d86(success), AbstractBootstrap$PendingRegistrationPromise@62656be4(success), AbstractBootstrap$PendingRegistrationPromise@17d919b6(success), AbstractBootstrap$PendingRegistrationPromise@53f3bdbd(success), AbstractBootstrap$PendingRegistrationPromise@34129c78(success), AbstractBootstrap$PendingRegistrationPromise@7d61eb55(success), AbstractBootstrap$PendingRegistrationPromise@222a59e6(success), AbstractBootstrap$PendingRegistrationPromise@6c7a164b(success)]
+2023-03-05 03:01:49 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.MixinProtocolSelector - [id: 0x583acedc, L:/192.168.31.193:5006 - R:/192.168.31.215:40444] 入站协议 version:  (SOCKS 5) 远程地址： /192.168.31.215:40444
+2023-03-05 03:01:49 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerHandler - 读取： SOCKS5
+2023-03-05 03:01:49 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 准备连接
+2023-03-05 03:01:49 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：IPv4(1) ,地址： 1.14.47.160 ，端口： 8088
+2023-03-05 03:01:49 [jproxy-worker-nio--0] INFO  c.z.j.f.p.J.h.S.SocksServerConnectHandler - 请求目标Type ：IPv4(1) ,地址： 1.14.47.160 ，端口： 8088
+2023-03-05 03:10:30 [main] INFO  c.z.j.f.p.ServerContext - list: [{ip=192.168.31.1/24, rule=ACCEPT}, {ip=127.0.0.1/0, rule=REJECT}]
+2023-03-05 03:10:30 [main] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 4172@DESKTOP-2OE000C (d:\JProxyTools)
+2023-03-05 03:10:30 [main] INFO  c.z.j.f.p.J.h.I.IpFilterRuleHandler - Int: 2
+2023-03-05 03:10:30 [main] INFO  c.z.j.f.p.J.h.I.IpFilterRuleHandler - ip： 192.168.31.1/24 rule: ACCEPT
+2023-03-05 03:10:30 [main] INFO  c.z.j.f.p.J.h.I.IpFilterRuleHandler - ip： 127.0.0.1/0 rule: REJECT
+2023-03-05 03:10:30 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5001
+2023-03-05 03:10:30 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5002
+2023-03-05 03:10:30 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5003
+2023-03-05 03:10:30 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5004
+2023-03-05 03:10:30 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5005
+2023-03-05 03:10:30 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5006
+2023-03-05 03:10:30 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5007
+2023-03-05 03:10:30 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5008
+2023-03-05 03:10:30 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5009
+2023-03-05 03:10:30 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5010
+2023-03-05 03:10:30 [main] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@76b07f29(success), AbstractBootstrap$PendingRegistrationPromise@38af9828(success), AbstractBootstrap$PendingRegistrationPromise@376a0d86(success), AbstractBootstrap$PendingRegistrationPromise@62656be4(success), AbstractBootstrap$PendingRegistrationPromise@17d919b6(success), AbstractBootstrap$PendingRegistrationPromise@53f3bdbd(success), AbstractBootstrap$PendingRegistrationPromise@34129c78(success), AbstractBootstrap$PendingRegistrationPromise@7d61eb55(success), AbstractBootstrap$PendingRegistrationPromise@222a59e6(success), AbstractBootstrap$PendingRegistrationPromise@6c7a164b(success)]
+2023-03-05 04:05:38 [main] INFO  c.z.j.f.p.ServerContext - list: [{ip=192.168.31.1/24, rule=ACCEPT}, {ip=127.0.0.1/0, rule=REJECT}]
+2023-03-05 04:05:38 [main] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 10496@DESKTOP-2OE000C (d:\JProxyTools)
+2023-03-05 04:05:38 [main] INFO  c.z.j.f.p.J.h.I.IpFilterRuleHandler - Int: 2
+2023-03-05 04:05:38 [main] INFO  c.z.j.f.p.J.h.I.IpFilterRuleHandler - ip： 192.168.31.1/24 rule: ACCEPT
+2023-03-05 04:05:38 [main] INFO  c.z.j.f.p.J.h.I.IpFilterRuleHandler - ip： 127.0.0.1/0 rule: REJECT
+2023-03-05 04:05:38 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5001
+2023-03-05 04:05:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5002
+2023-03-05 04:05:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5003
+2023-03-05 04:05:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5004
+2023-03-05 04:05:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5005
+2023-03-05 04:05:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5006
+2023-03-05 04:05:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5007
+2023-03-05 04:05:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5008
+2023-03-05 04:05:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5009
+2023-03-05 04:05:39 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5010
+2023-03-05 04:05:39 [main] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@76b07f29(success), AbstractBootstrap$PendingRegistrationPromise@38af9828(success), AbstractBootstrap$PendingRegistrationPromise@376a0d86(success), AbstractBootstrap$PendingRegistrationPromise@62656be4(success), AbstractBootstrap$PendingRegistrationPromise@17d919b6(success), AbstractBootstrap$PendingRegistrationPromise@53f3bdbd(success), AbstractBootstrap$PendingRegistrationPromise@34129c78(success), AbstractBootstrap$PendingRegistrationPromise@7d61eb55(success), AbstractBootstrap$PendingRegistrationPromise@222a59e6(success), AbstractBootstrap$PendingRegistrationPromise@6c7a164b(success)]
+2023-03-05 04:06:32 [main] INFO  c.z.j.f.p.ServerContext - list: [{ip=192.168.31.1/24, rule=ACCEPT}, {ip=127.0.0.1/0, rule=REJECT}]
+2023-03-05 04:06:32 [main] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 9940@DESKTOP-2OE000C (d:\JProxyTools)
+2023-03-05 04:09:24 [main] INFO  c.z.j.f.p.ServerContext - list: [{ip=192.168.31.1/24, rule=ACCEPT}, {ip=127.0.0.1/0, rule=REJECT}]
+2023-03-05 04:09:24 [main] INFO  c.z.j.f.p.J.RunServer - Starting JServer on 18596@DESKTOP-2OE000C (d:\JProxyTools)
+2023-03-05 04:09:24 [main] INFO  c.z.j.f.p.J.h.I.IpFilterRuleHandler - Int: 2
+2023-03-05 04:09:24 [main] INFO  c.z.j.f.p.J.h.I.IpFilterRuleHandler - ip： 192.168.31.1/24 rule: ACCEPT
+2023-03-05 04:09:24 [main] INFO  c.z.j.f.p.J.h.I.IpFilterRuleHandler - ip： 127.0.0.1/0 rule: REJECT
+2023-03-05 04:09:24 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5001
+2023-03-05 04:09:24 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5002
+2023-03-05 04:09:24 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5003
+2023-03-05 04:09:24 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5004
+2023-03-05 04:09:24 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5005
+2023-03-05 04:09:24 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5006
+2023-03-05 04:09:24 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5007
+2023-03-05 04:09:24 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5008
+2023-03-05 04:09:24 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5009
+2023-03-05 04:09:24 [main] INFO  c.z.j.f.p.J.JServer - ChannelFutures: [AbstractBootstrap$PendingRegistrationPromise@5c18016b(success), AbstractBootstrap$PendingRegistrationPromise@33aeca0b(success), AbstractBootstrap$PendingRegistrationPromise@43aaf813(success), AbstractBootstrap$PendingRegistrationPromise@57ac5227(success), AbstractBootstrap$PendingRegistrationPromise@4ba302e0(success), AbstractBootstrap$PendingRegistrationPromise@e98770d(success), AbstractBootstrap$PendingRegistrationPromise@1ae67cad(success), AbstractBootstrap$PendingRegistrationPromise@2f6e28bc(success), AbstractBootstrap$PendingRegistrationPromise@7c098bb3(success), AbstractBootstrap$PendingRegistrationPromise@31e4bb20(success)]
+2023-03-05 04:09:24 [jproxy-boss-nio--0] INFO  c.z.j.f.p.J.JServer - netty server 启动成功! /[0:0:0:0:0:0:0:0]:5010
